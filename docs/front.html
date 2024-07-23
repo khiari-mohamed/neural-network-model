@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>531693f475ec448280662942244e76c1</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="cell code" data-execution_count="34"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="TCSbDGmVP-9l" data-outputId="532a8348-9c28-4281-9341-09c2a1fff5cc">
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>nvidia<span class="op">-</span>smi</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Tue Jun  4 13:46:49 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.104.05             Driver Version: 535.104.05   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla T4                       Off | 00000000:00:04.0 Off |                    0 |
+| N/A   35C    P8               8W /  70W |      0MiB / 15360MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+</code></pre>
+</div>
+</div>
+<div class="cell markdown" id="YNcqGfqSQQPm">
+<p>#import libraries w data</p>
+</div>
+<div class="cell code" data-execution_count="35"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="NmysKS4nQTIx" data-outputId="947b9419-379f-4f2b-f9ec-4807a846e97a">
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install rasterio</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Requirement already satisfied: rasterio in /usr/local/lib/python3.10/dist-packages (1.3.10)
+Requirement already satisfied: affine in /usr/local/lib/python3.10/dist-packages (from rasterio) (2.4.0)
+Requirement already satisfied: attrs in /usr/local/lib/python3.10/dist-packages (from rasterio) (23.2.0)
+Requirement already satisfied: certifi in /usr/local/lib/python3.10/dist-packages (from rasterio) (2024.2.2)
+Requirement already satisfied: click&gt;=4.0 in /usr/local/lib/python3.10/dist-packages (from rasterio) (8.1.7)
+Requirement already satisfied: cligj&gt;=0.5 in /usr/local/lib/python3.10/dist-packages (from rasterio) (0.7.2)
+Requirement already satisfied: numpy in /usr/local/lib/python3.10/dist-packages (from rasterio) (1.25.2)
+Requirement already satisfied: snuggs&gt;=1.4.1 in /usr/local/lib/python3.10/dist-packages (from rasterio) (1.4.7)
+Requirement already satisfied: click-plugins in /usr/local/lib/python3.10/dist-packages (from rasterio) (1.1.1)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.10/dist-packages (from rasterio) (67.7.2)
+Requirement already satisfied: pyparsing&gt;=2.1.6 in /usr/local/lib/python3.10/dist-packages (from snuggs&gt;=1.4.1-&gt;rasterio) (3.1.2)
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="36"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="H_De5Y1aQZFw" data-outputId="49fafdc0-1060-4b2c-ee24-beaed00b55a1">
+<div class="sourceCode" id="cb5"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> rasterio</span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> io</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> tensorflow <span class="im">as</span> tf</span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> tensorflow <span class="im">import</span> keras</span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> google.colab <span class="im">import</span> drive</span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>drive.mount(<span class="st">&#39;/content/drive&#39;</span>)</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount(&quot;/content/drive&quot;, force_remount=True).
+</code></pre>
+</div>
+</div>
+<div class="cell markdown" id="0US-tJvDQ_O1">
+<p>#data</p>
+</div>
+<div class="cell code" data-execution_count="37"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="OzvHB7qyRAez" data-outputId="4c8214f8-0146-4f0e-ab1e-1348c7758835">
+<div class="sourceCode" id="cb7"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>file_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/test_train.csv&#39;</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>pd.read_csv(file_path)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>pd.read_csv(file_path).shape</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pd.read_csv(file_path).shape)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pd.read_csv(file_path).head())</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>(2601, 6)
+   FID  Shape Crop_Type  GRIDCODE   UTM_E    UTM_N
+0    0  Point     Wheat         1  592692  3950680
+1    1  Point     Wheat         1  592763  3950690
+2    2  Point     Wheat         1  592727  3950620
+3    3  Point     Wheat         1  592659  3950580
+4    4  Point     Wheat         1  592587  3950560
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="38"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:423}"
+id="9tLh4AALTZLD" data-outputId="2c2c3155-f2d6-4b83-fbc9-870e3d50baa6">
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>pd.read_csv(file_path)</span></code></pre></div>
+<div class="output execute_result" data-execution_count="38">
+
+  <div id="df-7468a7a8-1620-4216-8491-d555ba2a228e" class="colab-df-container">
+    <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>FID</th>
+      <th>Shape</th>
+      <th>Crop_Type</th>
+      <th>GRIDCODE</th>
+      <th>UTM_E</th>
+      <th>UTM_N</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>Point</td>
+      <td>Wheat</td>
+      <td>1</td>
+      <td>592692</td>
+      <td>3950680</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1</td>
+      <td>Point</td>
+      <td>Wheat</td>
+      <td>1</td>
+      <td>592763</td>
+      <td>3950690</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2</td>
+      <td>Point</td>
+      <td>Wheat</td>
+      <td>1</td>
+      <td>592727</td>
+      <td>3950620</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>3</td>
+      <td>Point</td>
+      <td>Wheat</td>
+      <td>1</td>
+      <td>592659</td>
+      <td>3950580</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>4</td>
+      <td>Point</td>
+      <td>Wheat</td>
+      <td>1</td>
+      <td>592587</td>
+      <td>3950560</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>2596</th>
+      <td>2596</td>
+      <td>Point</td>
+      <td>Other large-scale farming</td>
+      <td>0</td>
+      <td>592744</td>
+      <td>3896110</td>
+    </tr>
+    <tr>
+      <th>2597</th>
+      <td>2597</td>
+      <td>Point</td>
+      <td>Other large-scale farming</td>
+      <td>0</td>
+      <td>592486</td>
+      <td>3883980</td>
+    </tr>
+    <tr>
+      <th>2598</th>
+      <td>2598</td>
+      <td>Point</td>
+      <td>Other large-scale farming</td>
+      <td>0</td>
+      <td>591024</td>
+      <td>3883880</td>
+    </tr>
+    <tr>
+      <th>2599</th>
+      <td>2599</td>
+      <td>Point</td>
+      <td>Natural vegetation</td>
+      <td>3</td>
+      <td>609077</td>
+      <td>3940510</td>
+    </tr>
+    <tr>
+      <th>2600</th>
+      <td>2600</td>
+      <td>Point</td>
+      <td>Other large-scale farming</td>
+      <td>0</td>
+      <td>597911</td>
+      <td>3940170</td>
+    </tr>
+  </tbody>
+</table>
+<p>2601 rows × 6 columns</p>
+</div>
+    <div class="colab-df-buttons">
+
+  <div class="colab-df-container">
+    <button class="colab-df-convert" onclick="convertToInteractive('df-7468a7a8-1620-4216-8491-d555ba2a228e')"
+            title="Convert this dataframe to an interactive table."
+            style="display:none;">
+
+  <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960">
+    <path d="M120-120v-720h720v720H120Zm60-500h600v-160H180v160Zm220 220h160v-160H400v160Zm0 220h160v-160H400v160ZM180-400h160v-160H180v160Zm440 0h160v-160H620v160ZM180-180h160v-160H180v160Zm440 0h160v-160H620v160Z"/>
+  </svg>
+    </button>
+
+  <style>
+    .colab-df-container {
+      display:flex;
+      gap: 12px;
+    }
+
+    .colab-df-convert {
+      background-color: #E8F0FE;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: none;
+      fill: #1967D2;
+      height: 32px;
+      padding: 0 0 0 0;
+      width: 32px;
+    }
+
+    .colab-df-convert:hover {
+      background-color: #E2EBFA;
+      box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3), 0px 1px 3px 1px rgba(60, 64, 67, 0.15);
+      fill: #174EA6;
+    }
+
+    .colab-df-buttons div {
+      margin-bottom: 4px;
+    }
+
+    [theme=dark] .colab-df-convert {
+      background-color: #3B4455;
+      fill: #D2E3FC;
+    }
+
+    [theme=dark] .colab-df-convert:hover {
+      background-color: #434B5C;
+      box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+      filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3));
+      fill: #FFFFFF;
+    }
+  </style>
+
+    <script>
+      const buttonEl =
+        document.querySelector('#df-7468a7a8-1620-4216-8491-d555ba2a228e button.colab-df-convert');
+      buttonEl.style.display =
+        google.colab.kernel.accessAllowed ? 'block' : 'none';
+
+      async function convertToInteractive(key) {
+        const element = document.querySelector('#df-7468a7a8-1620-4216-8491-d555ba2a228e');
+        const dataTable =
+          await google.colab.kernel.invokeFunction('convertToInteractive',
+                                                    [key], {});
+        if (!dataTable) return;
+
+        const docLinkHtml = 'Like what you see? Visit the ' +
+          '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
+          + ' to learn more about interactive tables.';
+        element.innerHTML = '';
+        dataTable['output_type'] = 'display_data';
+        await google.colab.output.renderOutput(dataTable, element);
+        const docLink = document.createElement('div');
+        docLink.innerHTML = docLinkHtml;
+        element.appendChild(docLink);
+      }
+    </script>
+  </div>
+
+
+<div id="df-c92d073d-91e2-4ccc-a407-be7a2428c919">
+  <button class="colab-df-quickchart" onclick="quickchart('df-c92d073d-91e2-4ccc-a407-be7a2428c919')"
+            title="Suggest charts"
+            style="display:none;">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="24px"viewBox="0 0 24 24"
+     width="24px">
+    <g>
+        <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
+    </g>
+</svg>
+  </button>
+
+<style>
+  .colab-df-quickchart {
+      --bg-color: #E8F0FE;
+      --fill-color: #1967D2;
+      --hover-bg-color: #E2EBFA;
+      --hover-fill-color: #174EA6;
+      --disabled-fill-color: #AAA;
+      --disabled-bg-color: #DDD;
+  }
+
+  [theme=dark] .colab-df-quickchart {
+      --bg-color: #3B4455;
+      --fill-color: #D2E3FC;
+      --hover-bg-color: #434B5C;
+      --hover-fill-color: #FFFFFF;
+      --disabled-bg-color: #3B4455;
+      --disabled-fill-color: #666;
+  }
+
+  .colab-df-quickchart {
+    background-color: var(--bg-color);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+    fill: var(--fill-color);
+    height: 32px;
+    padding: 0;
+    width: 32px;
+  }
+
+  .colab-df-quickchart:hover {
+    background-color: var(--hover-bg-color);
+    box-shadow: 0 1px 2px rgba(60, 64, 67, 0.3), 0 1px 3px 1px rgba(60, 64, 67, 0.15);
+    fill: var(--button-hover-fill-color);
+  }
+
+  .colab-df-quickchart-complete:disabled,
+  .colab-df-quickchart-complete:disabled:hover {
+    background-color: var(--disabled-bg-color);
+    fill: var(--disabled-fill-color);
+    box-shadow: none;
+  }
+
+  .colab-df-spinner {
+    border: 2px solid var(--fill-color);
+    border-color: transparent;
+    border-bottom-color: var(--fill-color);
+    animation:
+      spin 1s steps(1) infinite;
+  }
+
+  @keyframes spin {
+    0% {
+      border-color: transparent;
+      border-bottom-color: var(--fill-color);
+      border-left-color: var(--fill-color);
+    }
+    20% {
+      border-color: transparent;
+      border-left-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+    }
+    30% {
+      border-color: transparent;
+      border-left-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+      border-right-color: var(--fill-color);
+    }
+    40% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+    }
+    60% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+    }
+    80% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+      border-bottom-color: var(--fill-color);
+    }
+    90% {
+      border-color: transparent;
+      border-bottom-color: var(--fill-color);
+    }
+  }
+</style>
+
+  <script>
+    async function quickchart(key) {
+      const quickchartButtonEl =
+        document.querySelector('#' + key + ' button');
+      quickchartButtonEl.disabled = true;  // To prevent multiple clicks.
+      quickchartButtonEl.classList.add('colab-df-spinner');
+      try {
+        const charts = await google.colab.kernel.invokeFunction(
+            'suggestCharts', [key], {});
+      } catch (error) {
+        console.error('Error during call to suggestCharts:', error);
+      }
+      quickchartButtonEl.classList.remove('colab-df-spinner');
+      quickchartButtonEl.classList.add('colab-df-quickchart-complete');
+    }
+    (() => {
+      let quickchartButtonEl =
+        document.querySelector('#df-c92d073d-91e2-4ccc-a407-be7a2428c919 button');
+      quickchartButtonEl.style.display =
+        google.colab.kernel.accessAllowed ? 'block' : 'none';
+    })();
+  </script>
+</div>
+
+    </div>
+  </div>
+
+</div>
+</div>
+<div class="cell markdown" id="cSdG_3A2RwC_">
+<p>#preprocces</p>
+</div>
+<div class="cell markdown" id="khVFPGmRcf4i">
+<p>#architecture</p>
+</div>
+<div class="cell code" data-execution_count="44"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:1000}"
+id="a54tgUJBcivo" data-outputId="ae353a6c-0542-4332-f02e-d54c9fafb5a6">
+<div class="sourceCode" id="cb10"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.model_selection <span class="im">import</span> train_test_split</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.preprocessing <span class="im">import</span> StandardScaler, LabelEncoder</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> tensorflow <span class="im">as</span> tf</span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> tensorflow.keras.callbacks <span class="im">import</span> EarlyStopping, ModelCheckpoint</span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> tensorflow.keras.regularizers <span class="im">import</span> l2</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a>file_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/test_train.csv&#39;</span></span>
+<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(file_path)</span>
+<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-13"><a href="#cb10-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-14"><a href="#cb10-14" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&#39;Crop_Type&#39;</span>].replace({<span class="st">&#39;Wheat&#39;</span>: <span class="fl">1.0</span>, <span class="st">&#39;Other large-scale farming&#39;</span>: <span class="fl">2.0</span>, <span class="st">&#39;Natural vegetation&#39;</span>: <span class="fl">3.0</span>, <span class="st">&#39;Perennial crops&#39;</span>: <span class="fl">4.0</span>}, inplace<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb10-15"><a href="#cb10-15" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&#39;Shape&#39;</span>].replace({<span class="st">&#39;Point&#39;</span>: <span class="fl">1.1</span>}, inplace<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb10-16"><a href="#cb10-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-17"><a href="#cb10-17" aria-hidden="true" tabindex="-1"></a><span class="co"># One-hot encode categorical variables</span></span>
+<span id="cb10-18"><a href="#cb10-18" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.get_dummies(df, columns<span class="op">=</span>[<span class="st">&#39;Shape&#39;</span>])</span>
+<span id="cb10-19"><a href="#cb10-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-20"><a href="#cb10-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Split features and target</span></span>
+<span id="cb10-21"><a href="#cb10-21" aria-hidden="true" tabindex="-1"></a>X <span class="op">=</span> df.drop([<span class="st">&#39;Crop_Type&#39;</span>], axis<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb10-22"><a href="#cb10-22" aria-hidden="true" tabindex="-1"></a>y <span class="op">=</span> df[<span class="st">&#39;Crop_Type&#39;</span>]</span>
+<span id="cb10-23"><a href="#cb10-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-24"><a href="#cb10-24" aria-hidden="true" tabindex="-1"></a><span class="co"># Encode target variable &#39;Crop_Type&#39; using LabelEncoder</span></span>
+<span id="cb10-25"><a href="#cb10-25" aria-hidden="true" tabindex="-1"></a>label_encoder <span class="op">=</span> LabelEncoder()</span>
+<span id="cb10-26"><a href="#cb10-26" aria-hidden="true" tabindex="-1"></a>y <span class="op">=</span> label_encoder.fit_transform(y)</span>
+<span id="cb10-27"><a href="#cb10-27" aria-hidden="true" tabindex="-1"></a>scaler <span class="op">=</span> StandardScaler()</span>
+<span id="cb10-28"><a href="#cb10-28" aria-hidden="true" tabindex="-1"></a>X_scaled <span class="op">=</span> scaler.fit_transform(X)</span>
+<span id="cb10-29"><a href="#cb10-29" aria-hidden="true" tabindex="-1"></a>X_train, X_test, y_train, y_test <span class="op">=</span> train_test_split(X_scaled, y, test_size<span class="op">=</span><span class="fl">0.2</span>, random_state<span class="op">=</span><span class="dv">42</span>)</span>
+<span id="cb10-30"><a href="#cb10-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-31"><a href="#cb10-31" aria-hidden="true" tabindex="-1"></a><span class="co">#model architecture</span></span>
+<span id="cb10-32"><a href="#cb10-32" aria-hidden="true" tabindex="-1"></a>model <span class="op">=</span> tf.keras.Sequential([</span>
+<span id="cb10-33"><a href="#cb10-33" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.GaussianNoise(<span class="fl">0.5</span>, input_shape<span class="op">=</span>(X_train.shape[<span class="dv">1</span>],)),</span>
+<span id="cb10-34"><a href="#cb10-34" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dense(<span class="dv">256</span>, activation<span class="op">=</span><span class="st">&#39;relu&#39;</span>, kernel_regularizer<span class="op">=</span>l2(<span class="fl">0.01</span>)),</span>
+<span id="cb10-35"><a href="#cb10-35" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dropout(<span class="fl">0.5</span>),</span>
+<span id="cb10-36"><a href="#cb10-36" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dense(<span class="dv">256</span>, activation<span class="op">=</span><span class="st">&#39;relu&#39;</span>, kernel_regularizer<span class="op">=</span>l2(<span class="fl">0.01</span>)),</span>
+<span id="cb10-37"><a href="#cb10-37" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dropout(<span class="fl">0.5</span>),</span>
+<span id="cb10-38"><a href="#cb10-38" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dense(<span class="dv">128</span>, activation<span class="op">=</span><span class="st">&#39;relu&#39;</span>, kernel_regularizer<span class="op">=</span>l2(<span class="fl">0.01</span>)),</span>
+<span id="cb10-39"><a href="#cb10-39" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dropout(<span class="fl">0.5</span>),</span>
+<span id="cb10-40"><a href="#cb10-40" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dense(<span class="dv">128</span>, activation<span class="op">=</span><span class="st">&#39;relu&#39;</span>, kernel_regularizer<span class="op">=</span>l2(<span class="fl">0.01</span>)),</span>
+<span id="cb10-41"><a href="#cb10-41" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dropout(<span class="fl">0.5</span>),</span>
+<span id="cb10-42"><a href="#cb10-42" aria-hidden="true" tabindex="-1"></a>    tf.keras.layers.Dense(<span class="bu">len</span>(label_encoder.classes_), activation<span class="op">=</span><span class="st">&#39;softmax&#39;</span>)</span>
+<span id="cb10-43"><a href="#cb10-43" aria-hidden="true" tabindex="-1"></a>])</span>
+<span id="cb10-44"><a href="#cb10-44" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-45"><a href="#cb10-45" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-46"><a href="#cb10-46" aria-hidden="true" tabindex="-1"></a>model.<span class="bu">compile</span>(optimizer<span class="op">=</span><span class="st">&#39;adam&#39;</span>, loss<span class="op">=</span><span class="st">&#39;sparse_categorical_crossentropy&#39;</span>, metrics<span class="op">=</span>[<span class="st">&#39;accuracy&#39;</span>])</span>
+<span id="cb10-47"><a href="#cb10-47" aria-hidden="true" tabindex="-1"></a>early_stopping <span class="op">=</span> EarlyStopping(monitor<span class="op">=</span><span class="st">&#39;val_loss&#39;</span>, patience<span class="op">=</span><span class="dv">5</span>, min_delta<span class="op">=</span><span class="fl">0.001</span>)</span>
+<span id="cb10-48"><a href="#cb10-48" aria-hidden="true" tabindex="-1"></a>checkpoint <span class="op">=</span> ModelCheckpoint(<span class="st">&#39;best_model.h5&#39;</span>, monitor<span class="op">=</span><span class="st">&#39;val_loss&#39;</span>, save_best_only<span class="op">=</span><span class="va">True</span>, mode<span class="op">=</span><span class="st">&#39;min&#39;</span>)</span>
+<span id="cb10-49"><a href="#cb10-49" aria-hidden="true" tabindex="-1"></a>history <span class="op">=</span> model.fit(X_train, y_train,</span>
+<span id="cb10-50"><a href="#cb10-50" aria-hidden="true" tabindex="-1"></a>                    epochs<span class="op">=</span><span class="dv">100</span>,</span>
+<span id="cb10-51"><a href="#cb10-51" aria-hidden="true" tabindex="-1"></a>                    batch_size<span class="op">=</span><span class="dv">128</span>,</span>
+<span id="cb10-52"><a href="#cb10-52" aria-hidden="true" tabindex="-1"></a>                    validation_data<span class="op">=</span>(X_test, y_test),</span>
+<span id="cb10-53"><a href="#cb10-53" aria-hidden="true" tabindex="-1"></a>                    callbacks<span class="op">=</span>[early_stopping, checkpoint])</span>
+<span id="cb10-54"><a href="#cb10-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-55"><a href="#cb10-55" aria-hidden="true" tabindex="-1"></a><span class="co"># Evaluate </span></span>
+<span id="cb10-56"><a href="#cb10-56" aria-hidden="true" tabindex="-1"></a>test_loss, test_accuracy <span class="op">=</span> model.evaluate(X_test, y_test)</span>
+<span id="cb10-57"><a href="#cb10-57" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&#39;Test Loss:&#39;</span>, test_loss)</span>
+<span id="cb10-58"><a href="#cb10-58" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&#39;Test Accuracy:&#39;</span>, test_accuracy)</span>
+<span id="cb10-59"><a href="#cb10-59" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-60"><a href="#cb10-60" aria-hidden="true" tabindex="-1"></a>train_loss <span class="op">=</span> history.history[<span class="st">&#39;loss&#39;</span>]</span>
+<span id="cb10-61"><a href="#cb10-61" aria-hidden="true" tabindex="-1"></a>val_loss <span class="op">=</span> history.history[<span class="st">&#39;val_loss&#39;</span>]</span>
+<span id="cb10-62"><a href="#cb10-62" aria-hidden="true" tabindex="-1"></a>loss_df <span class="op">=</span> pd.DataFrame({<span class="st">&#39;train_loss&#39;</span>: train_loss, <span class="st">&#39;val_loss&#39;</span>: val_loss})</span>
+<span id="cb10-63"><a href="#cb10-63" aria-hidden="true" tabindex="-1"></a>loss_df.to_csv(<span class="st">&#39;loss_values.csv&#39;</span>, index<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb10-64"><a href="#cb10-64" aria-hidden="true" tabindex="-1"></a>plt.plot(history.history[<span class="st">&#39;loss&#39;</span>], label<span class="op">=</span><span class="st">&#39;Training Loss&#39;</span>)</span>
+<span id="cb10-65"><a href="#cb10-65" aria-hidden="true" tabindex="-1"></a>plt.plot(history.history[<span class="st">&#39;val_loss&#39;</span>], label<span class="op">=</span><span class="st">&#39;Validation Loss&#39;</span>)</span>
+<span id="cb10-66"><a href="#cb10-66" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">&#39;Epochs&#39;</span>)</span>
+<span id="cb10-67"><a href="#cb10-67" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&#39;Loss&#39;</span>)</span>
+<span id="cb10-68"><a href="#cb10-68" aria-hidden="true" tabindex="-1"></a>plt.legend()</span>
+<span id="cb10-69"><a href="#cb10-69" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">&#39;Training and Validation Loss&#39;</span>)</span>
+<span id="cb10-70"><a href="#cb10-70" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Epoch 1/100
+17/17 [==============================] - 3s 29ms/step - loss: 6.3626 - accuracy: 0.3236 - val_loss: 5.4835 - val_accuracy: 0.6027
+Epoch 2/100
+ 9/17 [==============&gt;...............] - ETA: 0s - loss: 5.1688 - accuracy: 0.4809</code></pre>
+</div>
+<div class="output stream stderr">
+<pre><code>/usr/local/lib/python3.10/dist-packages/keras/src/engine/training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save(&#39;my_model.keras&#39;)`.
+  saving_api.save_model(
+</code></pre>
+</div>
+<div class="output stream stdout">
+<pre><code>17/17 [==============================] - 0s 13ms/step - loss: 4.8779 - accuracy: 0.4933 - val_loss: 4.0377 - val_accuracy: 0.5470
+Epoch 3/100
+17/17 [==============================] - 0s 13ms/step - loss: 3.6473 - accuracy: 0.5562 - val_loss: 2.9369 - val_accuracy: 0.7965
+Epoch 4/100
+17/17 [==============================] - 0s 12ms/step - loss: 2.7891 - accuracy: 0.6293 - val_loss: 2.1939 - val_accuracy: 0.8119
+Epoch 5/100
+17/17 [==============================] - 0s 14ms/step - loss: 2.2374 - accuracy: 0.6481 - val_loss: 1.7518 - val_accuracy: 0.7985
+Epoch 6/100
+17/17 [==============================] - 0s 13ms/step - loss: 1.7980 - accuracy: 0.6880 - val_loss: 1.3864 - val_accuracy: 0.9040
+Epoch 7/100
+17/17 [==============================] - 0s 11ms/step - loss: 1.5392 - accuracy: 0.6899 - val_loss: 1.1747 - val_accuracy: 0.8637
+Epoch 8/100
+17/17 [==============================] - 0s 9ms/step - loss: 1.3129 - accuracy: 0.7346 - val_loss: 0.9520 - val_accuracy: 0.9789
+Epoch 9/100
+17/17 [==============================] - 0s 9ms/step - loss: 1.1915 - accuracy: 0.7197 - val_loss: 0.8531 - val_accuracy: 0.9367
+Epoch 10/100
+17/17 [==============================] - 0s 10ms/step - loss: 1.0780 - accuracy: 0.7332 - val_loss: 0.7526 - val_accuracy: 0.9770
+Epoch 11/100
+17/17 [==============================] - 0s 9ms/step - loss: 0.9997 - accuracy: 0.7375 - val_loss: 0.6880 - val_accuracy: 0.9846
+Epoch 12/100
+17/17 [==============================] - 0s 9ms/step - loss: 0.9593 - accuracy: 0.7375 - val_loss: 0.6779 - val_accuracy: 0.9098
+Epoch 13/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.9472 - accuracy: 0.7279 - val_loss: 0.6718 - val_accuracy: 0.9002
+Epoch 14/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.9016 - accuracy: 0.7375 - val_loss: 0.6298 - val_accuracy: 0.9424
+Epoch 15/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.8609 - accuracy: 0.7337 - val_loss: 0.5661 - val_accuracy: 0.9616
+Epoch 16/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.8596 - accuracy: 0.7361 - val_loss: 0.5648 - val_accuracy: 0.9655
+Epoch 17/100
+17/17 [==============================] - 0s 9ms/step - loss: 0.8445 - accuracy: 0.7490 - val_loss: 0.5508 - val_accuracy: 0.9635
+Epoch 18/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.8357 - accuracy: 0.7317 - val_loss: 0.5299 - val_accuracy: 0.9808
+Epoch 19/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.7808 - accuracy: 0.7663 - val_loss: 0.5060 - val_accuracy: 0.9866
+Epoch 20/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.7933 - accuracy: 0.7486 - val_loss: 0.4903 - val_accuracy: 0.9846
+Epoch 21/100
+17/17 [==============================] - 0s 9ms/step - loss: 0.7704 - accuracy: 0.7659 - val_loss: 0.4705 - val_accuracy: 0.9904
+Epoch 22/100
+17/17 [==============================] - 0s 7ms/step - loss: 0.7986 - accuracy: 0.7462 - val_loss: 0.4823 - val_accuracy: 0.9885
+Epoch 23/100
+17/17 [==============================] - 0s 7ms/step - loss: 0.7677 - accuracy: 0.7587 - val_loss: 0.4980 - val_accuracy: 0.9559
+Epoch 24/100
+17/17 [==============================] - 0s 6ms/step - loss: 0.7838 - accuracy: 0.7490 - val_loss: 0.5329 - val_accuracy: 0.9443
+Epoch 25/100
+17/17 [==============================] - 0s 8ms/step - loss: 0.7922 - accuracy: 0.7356 - val_loss: 0.4918 - val_accuracy: 0.9904
+Epoch 26/100
+17/17 [==============================] - 0s 7ms/step - loss: 0.7717 - accuracy: 0.7452 - val_loss: 0.4846 - val_accuracy: 0.9846
+17/17 [==============================] - 0s 3ms/step - loss: 0.4846 - accuracy: 0.9846
+Test Loss: 0.4846070110797882
+Test Accuracy: 0.984644889831543
+</code></pre>
+</div>
+<div class="output display_data">
+<p><img
+src="vertopal_20540473b5e24517a3952783b1f58852/44c5d84a5bb4f4b7598a3ba43a875a8c8fb33eff.png" /></p>
+</div>
+</div>
+<div class="cell code" data-execution_count="45" id="5ETUBU-PksAg">
+<div class="sourceCode" id="cb14"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>save_dir <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/saved_models&#39;</span></span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>os.makedirs(save_dir, exist_ok<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>model_path <span class="op">=</span> os.path.join(save_dir, <span class="st">&#39;best_model.h5&#39;</span>)</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>model.save(model_path)</span></code></pre></div>
+</div>
+<div class="cell code" data-execution_count="46"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="nTclHNwwlSd9" data-outputId="f1a7ce96-c757-4119-eb6b-6e5768da7dd8">
+<div class="sourceCode" id="cb15"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> tensorflow <span class="im">as</span> tf</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>best_model <span class="op">=</span> tf.keras.models.load_model(model_path)</span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>predictions <span class="op">=</span> best_model.predict(X_test)</span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>predicted_classes <span class="op">=</span> tf.argmax(predictions, axis<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(predicted_classes.numpy())</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>17/17 [==============================] - 0s 2ms/step
+[2 2 2 2 1 1 2 1 3 2 3 0 0 0 0 0 2 2 3 3 2 1 1 1 1 1 3 0 3 0 1 1 3 3 0 3 1
+ 0 1 1 3 0 2 0 2 1 0 2 3 2 1 3 3 2 2 1 3 0 3 0 0 0 1 2 1 3 2 3 0 1 2 0 3 0
+ 2 0 1 3 2 3 0 1 0 3 1 1 3 3 0 0 3 3 3 0 2 2 1 1 3 0 2 2 0 2 0 3 1 3 3 3 0
+ 2 2 2 3 2 2 1 2 2 3 3 0 0 2 3 3 2 0 1 1 0 2 3 2 3 3 1 1 3 0 1 1 1 3 1 0 1
+ 1 3 2 3 0 1 0 1 2 0 3 1 3 2 2 3 2 0 2 0 1 1 1 1 3 3 3 3 2 0 3 1 2 0 0 3 2
+ 2 3 3 3 0 0 1 3 3 1 1 2 3 2 3 0 0 1 3 3 2 1 0 2 0 1 2 2 3 2 0 2 1 2 0 1 2
+ 0 2 1 2 3 3 1 1 0 3 2 1 3 2 1 2 2 3 2 2 3 1 0 0 3 3 1 0 3 2 2 3 1 2 3 1 2
+ 2 1 3 0 1 3 0 3 2 2 1 3 0 0 0 0 1 0 2 0 2 1 1 2 0 1 1 3 1 2 3 2 0 2 3 1 1
+ 2 1 2 2 2 1 0 0 3 1 1 1 0 0 2 1 3 3 1 1 3 3 2 0 2 1 2 1 0 2 1 0 0 1 2 2 0
+ 2 1 1 3 3 1 1 1 2 0 3 1 2 0 1 2 2 1 1 0 1 1 1 2 0 3 3 2 0 1 3 1 0 3 2 3 1
+ 3 3 2 0 3 0 0 1 1 3 0 0 2 0 2 1 2 3 3 3 1 3 2 0 3 0 1 2 3 3 3 3 1 3 0 1 0
+ 2 1 1 0 0 2 2 1 1 2 1 3 2 3 2 1 1 2 3 2 3 1 0 0 3 3 3 1 2 2 3 2 0 0 2 1 1
+ 2 2 1 3 2 2 0 1 1 0 3 0 0 1 3 2 3 1 0 2 1 1 2 0 3 1 2 2 2 1 0 1 0 2 0 2 3
+ 3 3 1 0 2 1 3 1 0 2 2 1 3 1 3 3 3 3 1 1 0 1 2 1 1 1 1 1 1 3 3 0 1 1 1 0 0
+ 0 1 1]
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="47"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:564}"
+id="JNHCIAYYldGK" data-outputId="f84e219d-3c58-4d4f-9643-e73aee21401e">
+<div class="sourceCode" id="cb17"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">12</span>, <span class="dv">6</span>))</span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>plt.plot(predicted_classes, <span class="st">&#39;bo&#39;</span>, label<span class="op">=</span><span class="st">&#39;Predicted&#39;</span>)</span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>plt.plot(y_test, <span class="st">&#39;ro&#39;</span>, alpha<span class="op">=</span><span class="fl">0.5</span>, label<span class="op">=</span><span class="st">&#39;True&#39;</span>)</span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">&#39;Sample index&#39;</span>)</span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&#39;Class&#39;</span>)</span>
+<span id="cb17-8"><a href="#cb17-8" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">&#39;Predicted vs. True Classes&#39;</span>)</span>
+<span id="cb17-9"><a href="#cb17-9" aria-hidden="true" tabindex="-1"></a>plt.legend()</span>
+<span id="cb17-10"><a href="#cb17-10" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<div class="output display_data">
+<p><img
+src="vertopal_20540473b5e24517a3952783b1f58852/6873aa0b44182e31e8728877bd6d680a5069ace9.png" /></p>
+</div>
+</div>
+<div class="cell code" data-execution_count="48"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="5C_QZFL5mHCO" data-outputId="16ac225c-96e0-42e4-8012-62e4e708fd67">
+<div class="sourceCode" id="cb18"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install geopandas shapely</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Requirement already satisfied: geopandas in /usr/local/lib/python3.10/dist-packages (0.13.2)
+Requirement already satisfied: shapely in /usr/local/lib/python3.10/dist-packages (2.0.4)
+Requirement already satisfied: fiona&gt;=1.8.19 in /usr/local/lib/python3.10/dist-packages (from geopandas) (1.9.6)
+Requirement already satisfied: packaging in /usr/local/lib/python3.10/dist-packages (from geopandas) (24.0)
+Requirement already satisfied: pandas&gt;=1.1.0 in /usr/local/lib/python3.10/dist-packages (from geopandas) (2.0.3)
+Requirement already satisfied: pyproj&gt;=3.0.1 in /usr/local/lib/python3.10/dist-packages (from geopandas) (3.6.1)
+Requirement already satisfied: numpy&lt;3,&gt;=1.14 in /usr/local/lib/python3.10/dist-packages (from shapely) (1.25.2)
+Requirement already satisfied: attrs&gt;=19.2.0 in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (23.2.0)
+Requirement already satisfied: certifi in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (2024.2.2)
+Requirement already satisfied: click~=8.0 in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (8.1.7)
+Requirement already satisfied: click-plugins&gt;=1.0 in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (1.1.1)
+Requirement already satisfied: cligj&gt;=0.5 in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (0.7.2)
+Requirement already satisfied: six in /usr/local/lib/python3.10/dist-packages (from fiona&gt;=1.8.19-&gt;geopandas) (1.16.0)
+Requirement already satisfied: python-dateutil&gt;=2.8.2 in /usr/local/lib/python3.10/dist-packages (from pandas&gt;=1.1.0-&gt;geopandas) (2.8.2)
+Requirement already satisfied: pytz&gt;=2020.1 in /usr/local/lib/python3.10/dist-packages (from pandas&gt;=1.1.0-&gt;geopandas) (2023.4)
+Requirement already satisfied: tzdata&gt;=2022.1 in /usr/local/lib/python3.10/dist-packages (from pandas&gt;=1.1.0-&gt;geopandas) (2024.1)
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="51"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="IZZTcZJkmMse" data-outputId="e221b85a-2a01-49a4-c6a1-cd836d0b961e">
+<div class="sourceCode" id="cb20"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> geopandas <span class="im">as</span> gpd</span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> shapely.geometry <span class="im">import</span> Point</span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>file_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/test_train.csv&#39;</span></span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(file_path)</span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&#39;Shape&#39;</span>] <span class="op">=</span> <span class="fl">1.1</span> </span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a>df.rename(columns<span class="op">=</span>{<span class="st">&#39;UTM_E&#39;</span>: <span class="st">&#39;longitude&#39;</span>, <span class="st">&#39;UTM_N&#39;</span>: <span class="st">&#39;latitude&#39;</span>}, inplace<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a>predicted_classes <span class="op">=</span> df[<span class="st">&#39;Crop_Type&#39;</span>]</span>
+<span id="cb20-9"><a href="#cb20-9" aria-hidden="true" tabindex="-1"></a>predictions_df <span class="op">=</span> pd.DataFrame(predicted_classes, columns<span class="op">=</span>[<span class="st">&#39;Predicted_Class&#39;</span>])</span>
+<span id="cb20-10"><a href="#cb20-10" aria-hidden="true" tabindex="-1"></a>results_df <span class="op">=</span> pd.concat([df, predictions_df], axis<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb20-11"><a href="#cb20-11" aria-hidden="true" tabindex="-1"></a>results_csv_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/predictions.csv&#39;</span></span>
+<span id="cb20-12"><a href="#cb20-12" aria-hidden="true" tabindex="-1"></a>results_df.to_csv(results_csv_path, index<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb20-13"><a href="#cb20-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb20-14"><a href="#cb20-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert points to a shapefile</span></span>
+<span id="cb20-15"><a href="#cb20-15" aria-hidden="true" tabindex="-1"></a>geometry <span class="op">=</span> [Point(xy) <span class="cf">for</span> xy <span class="kw">in</span> <span class="bu">zip</span>(df[<span class="st">&#39;longitude&#39;</span>], df[<span class="st">&#39;latitude&#39;</span>])]</span>
+<span id="cb20-16"><a href="#cb20-16" aria-hidden="true" tabindex="-1"></a>geo_df <span class="op">=</span> gpd.GeoDataFrame(results_df, geometry<span class="op">=</span>geometry)</span>
+<span id="cb20-17"><a href="#cb20-17" aria-hidden="true" tabindex="-1"></a>shapefile_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/predictions.shp&#39;</span></span>
+<span id="cb20-18"><a href="#cb20-18" aria-hidden="true" tabindex="-1"></a>geo_df.to_file(shapefile_path, driver<span class="op">=</span><span class="st">&#39;ESRI Shapefile&#39;</span>)</span>
+<span id="cb20-19"><a href="#cb20-19" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&quot;Shapefile saved to:&quot;</span>, shapefile_path)</span></code></pre></div>
+<div class="output stream stderr">
+<pre><code>&lt;ipython-input-51-cc623ebeeb91&gt;:34: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  geo_df.to_file(shapefile_path, driver=&#39;ESRI Shapefile&#39;)
+WARNING:fiona._env:Normalized/laundered field name: &#39;Predicted_Class&#39; to &#39;Predicted_&#39;
+</code></pre>
+</div>
+<div class="output stream stdout">
+<pre><code>Shapefile saved to: /content/drive/MyDrive/DATA/predictions.shp
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="53"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:872}"
+id="HKUV39lHnrYE" data-outputId="8d7dc0f0-8f44-451d-ae74-42234486d207">
+<div class="sourceCode" id="cb23"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> geopandas <span class="im">as</span> gpd</span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the shapefile</span></span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>shapefile_path <span class="op">=</span> <span class="st">&#39;/content/drive/MyDrive/DATA/predictions.shp&#39;</span></span>
+<span id="cb23-6"><a href="#cb23-6" aria-hidden="true" tabindex="-1"></a>geo_df <span class="op">=</span> gpd.read_file(shapefile_path)</span>
+<span id="cb23-7"><a href="#cb23-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-8"><a href="#cb23-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the data</span></span>
+<span id="cb23-9"><a href="#cb23-9" aria-hidden="true" tabindex="-1"></a>geo_df.plot(figsize<span class="op">=</span>(<span class="dv">10</span>, <span class="dv">10</span>), column<span class="op">=</span><span class="st">&#39;Crop_Type&#39;</span>, legend<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb23-10"><a href="#cb23-10" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">&#39;Predicted Crop Types&#39;</span>)</span>
+<span id="cb23-11"><a href="#cb23-11" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">&#39;Longitude&#39;</span>)</span>
+<span id="cb23-12"><a href="#cb23-12" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&#39;Latitude&#39;</span>)</span>
+<span id="cb23-13"><a href="#cb23-13" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<div class="output display_data">
+<p><img
+src="vertopal_20540473b5e24517a3952783b1f58852/beeb700a928d01e95e2331482787b0909e422b50.png" /></p>
+</div>
+</div>
+</body>
+</html>

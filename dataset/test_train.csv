@@ -1,0 +1,2602 @@
+FID,Shape,Crop_Type,GRIDCODE,UTM_E,UTM_N
+0,Point,Wheat,1,592692,3950680
+1,Point,Wheat,1,592763,3950690
+2,Point,Wheat,1,592727,3950620
+3,Point,Wheat,1,592659,3950580
+4,Point,Wheat,1,592587,3950560
+5,Point,Wheat,1,592500,3950650
+6,Point,Wheat,1,592482,3950630
+7,Point,Wheat,1,593024,3950780
+8,Point,Wheat,1,593242,3954180
+9,Point,Wheat,1,593059,3954270
+10,Point,Wheat,1,592788,3954610
+11,Point,Wheat,1,592507,3954720
+12,Point,Wheat,1,592016,3954830
+13,Point,Wheat,1,592000,3954890
+14,Point,Wheat,1,591371,3955630
+15,Point,Wheat,1,590980,3955820
+16,Point,Wheat,1,590812,3956060
+17,Point,Wheat,1,590325,3956380
+18,Point,Wheat,1,590164,3956590
+19,Point,Wheat,1,590061,3956660
+20,Point,Wheat,1,593777,3936170
+21,Point,Wheat,1,593647,3936040
+22,Point,Wheat,1,593571,3935950
+23,Point,Wheat,1,593495,3935890
+24,Point,Wheat,1,593434,3935830
+25,Point,Wheat,1,592978,3935520
+26,Point,Wheat,1,592984,3935420
+27,Point,Wheat,1,592923,3935530
+28,Point,Wheat,1,592894,3935340
+29,Point,Wheat,1,592507,3934960
+30,Point,Wheat,1,592421,3934910
+31,Point,Wheat,1,592186,3934890
+32,Point,Wheat,1,591224,3930850
+33,Point,Wheat,1,590944,3930660
+34,Point,Wheat,1,589392,3929740
+35,Point,Wheat,1,588878,3929180
+36,Point,Wheat,1,588593,3929370
+37,Point,Wheat,1,588368,3928850
+38,Point,Wheat,1,587889,3928700
+39,Point,Wheat,1,587518,3928500
+40,Point,Wheat,1,587438,3928020
+41,Point,Wheat,1,586074,3926960
+42,Point,Wheat,1,586488,3926800
+43,Point,Wheat,1,586486,3922070
+44,Point,Wheat,1,587094,3921550
+45,Point,Wheat,1,587104,3921950
+46,Point,Wheat,1,587066,3922580
+47,Point,Wheat,1,587079,3922990
+48,Point,Wheat,1,585217,3923370
+49,Point,Wheat,1,584595,3923020
+50,Point,Wheat,1,584772,3922820
+51,Point,Wheat,1,584263,3922920
+52,Point,Wheat,1,584042,3922740
+53,Point,Wheat,1,583783,3922470
+54,Point,Wheat,1,583421,3922850
+55,Point,Wheat,1,591221,3930670
+56,Point,Wheat,1,591417,3930800
+57,Point,Wheat,1,591812,3931210
+58,Point,Wheat,1,592138,3931260
+59,Point,Wheat,1,592552,3931470
+60,Point,Wheat,1,592427,3930990
+61,Point,Wheat,1,593591,3932020
+62,Point,Wheat,1,593907,3931270
+63,Point,Wheat,1,593832,3930950
+64,Point,Wheat,1,593784,3930810
+65,Point,Wheat,1,593493,3930310
+66,Point,Wheat,1,593367,3928410
+67,Point,Wheat,1,596796,3930910
+68,Point,Wheat,1,596443,3923950
+69,Point,Wheat,1,596538,3926570
+70,Point,Wheat,1,596649,3926740
+71,Point,Wheat,1,596698,3926870
+72,Point,Wheat,1,596402,3926910
+73,Point,Wheat,1,597018,3927880
+74,Point,Wheat,1,596662,3927430
+75,Point,Wheat,1,596616,3927900
+76,Point,Wheat,1,596897,3928290
+77,Point,Wheat,1,596620,3928560
+78,Point,Wheat,1,596857,3928970
+79,Point,Wheat,1,596728,3929360
+80,Point,Wheat,1,596545,3929950
+81,Point,Wheat,1,596641,3930790
+82,Point,Wheat,1,596793,3931010
+83,Point,Wheat,1,598882,3935370
+84,Point,Wheat,1,599307,3933440
+85,Point,Wheat,1,599438,3932260
+86,Point,Wheat,1,598932,3933100
+87,Point,Wheat,1,599173,3932670
+88,Point,Wheat,1,599189,3932070
+89,Point,Wheat,1,598369,3931110
+90,Point,Wheat,1,599236,3930980
+91,Point,Wheat,1,599010,3930560
+92,Point,Wheat,1,599121,3930200
+93,Point,Wheat,1,599194,3931770
+94,Point,Wheat,1,598829,3933220
+95,Point,Wheat,1,599881,3934610
+96,Point,Wheat,1,599963,3934740
+97,Point,Wheat,1,601104,3939760
+98,Point,Wheat,1,601266,3940130
+99,Point,Wheat,1,601019,3940790
+100,Point,Wheat,1,603130,3943980
+101,Point,Wheat,1,602732,3943590
+102,Point,Wheat,1,602331,3944120
+103,Point,Wheat,1,602163,3944120
+104,Point,Wheat,1,602183,3944310
+105,Point,Wheat,1,601973,3944730
+106,Point,Wheat,1,601455,3944790
+107,Point,Wheat,1,601639,3945350
+108,Point,Wheat,1,600137,3945180
+109,Point,Wheat,1,597661,3945950
+110,Point,Wheat,1,595430,3943730
+111,Point,Wheat,1,595318,3943580
+112,Point,Wheat,1,594863,3942900
+113,Point,Wheat,1,594830,3943020
+114,Point,Wheat,1,594694,3943030
+115,Point,Wheat,1,594574,3943070
+116,Point,Wheat,1,594376,3942970
+117,Point,Wheat,1,594197,3943140
+118,Point,Wheat,1,593944,3942990
+119,Point,Wheat,1,593798,3943200
+120,Point,Wheat,1,593697,3943050
+121,Point,Wheat,1,593584,3943200
+122,Point,Wheat,1,593001,3943230
+123,Point,Wheat,1,592852,3945490
+124,Point,Wheat,1,592973,3945440
+125,Point,Wheat,1,593070,3945540
+126,Point,Wheat,1,593177,3945470
+127,Point,Wheat,1,593114,3946160
+128,Point,Wheat,1,593245,3946190
+129,Point,Wheat,1,593574,3945840
+130,Point,Wheat,1,593640,3945760
+131,Point,Wheat,1,593579,3945590
+132,Point,Wheat,1,593495,3945530
+133,Point,Wheat,1,593381,3945520
+134,Point,Wheat,1,588822,3962220
+135,Point,Wheat,1,589594,3963310
+136,Point,Wheat,1,589929,3965070
+137,Point,Wheat,1,590980,3967830
+138,Point,Wheat,1,591567,3971000
+139,Point,Wheat,1,592022,3970860
+140,Point,Wheat,1,592425,3970880
+141,Point,Wheat,1,592698,3970770
+142,Point,Wheat,1,586272,3943420
+143,Point,Wheat,1,584805,3942270
+144,Point,Wheat,1,588048,3943610
+145,Point,Wheat,1,589394,3944500
+146,Point,Wheat,1,592287,3948940
+147,Point,Wheat,1,592993,3949170
+148,Point,Wheat,1,592823,3948970
+149,Point,Wheat,1,593107,3948930
+150,Point,Wheat,1,593352,3948970
+151,Point,Wheat,1,593453,3949210
+152,Point,Wheat,1,593633,3949170
+153,Point,Wheat,1,593485,3949340
+154,Point,Wheat,1,593114,3951280
+155,Point,Wheat,1,593226,3951260
+156,Point,Wheat,1,597897,3955540
+157,Point,Wheat,1,597741,3955640
+158,Point,Wheat,1,597967,3954950
+159,Point,Wheat,1,598060,3954770
+160,Point,Wheat,1,598091,3954620
+161,Point,Wheat,1,598156,3954210
+162,Point,Wheat,1,598250,3953890
+163,Point,Wheat,1,598300,3953690
+164,Point,Wheat,1,598396,3953390
+165,Point,Wheat,1,598519,3953090
+166,Point,Wheat,1,598568,3952680
+167,Point,Wheat,1,598478,3952300
+168,Point,Wheat,1,598632,3952420
+169,Point,Wheat,1,595235,3943230
+170,Point,Wheat,1,595210,3943420
+171,Point,Wheat,1,595484,3943540
+172,Point,Wheat,1,595442,3943790
+173,Point,Wheat,1,595550,3943640
+174,Point,Wheat,1,595562,3943850
+175,Point,Wheat,1,595679,3943790
+176,Point,Wheat,1,595636,3943920
+177,Point,Wheat,1,595800,3944100
+178,Point,Wheat,1,595882,3944000
+179,Point,Wheat,1,596003,3944110
+180,Point,Wheat,1,597504,3945760
+181,Point,Wheat,1,597937,3945390
+182,Point,Wheat,1,598097,3944560
+183,Point,Wheat,1,598054,3944360
+184,Point,Wheat,1,597847,3944150
+185,Point,Wheat,1,597657,3944240
+186,Point,Wheat,1,597249,3943260
+187,Point,Wheat,1,597301,3943140
+188,Point,Wheat,1,596845,3941110
+189,Point,Wheat,1,596634,3940770
+190,Point,Wheat,1,595380,3938740
+191,Point,Wheat,1,595507,3938670
+192,Point,Wheat,1,594550,3937330
+193,Point,Wheat,1,594269,3936900
+194,Point,Wheat,1,593628,3936150
+195,Point,Natural vegetation,3,597021,3960920
+196,Point,Natural vegetation,3,588322,3960430
+197,Point,Natural vegetation,3,588552,3961230
+198,Point,Natural vegetation,3,589026,3960850
+199,Point,Natural vegetation,3,589735,3978560
+200,Point,Natural vegetation,3,601110,3957620
+201,Point,Natural vegetation,3,600694,3957230
+202,Point,Natural vegetation,3,602012,3958980
+203,Point,Natural vegetation,3,604497,3963860
+204,Point,Natural vegetation,3,605457,3963990
+205,Point,Natural vegetation,3,599607,3969510
+206,Point,Natural vegetation,3,603518,3967340
+207,Point,Natural vegetation,3,600178,3965740
+208,Point,Natural vegetation,3,601260,3959690
+209,Point,Natural vegetation,3,600477,3972290
+210,Point,Natural vegetation,3,593093,3974060
+211,Point,Natural vegetation,3,551299,3939050
+212,Point,Natural vegetation,3,605220,3981880
+213,Point,Natural vegetation,3,593286,3975650
+214,Point,Natural vegetation,3,568799,3948350
+215,Point,Natural vegetation,3,599216,3915680
+216,Point,Natural vegetation,3,545104,3949960
+217,Point,Natural vegetation,3,561348,3961730
+218,Point,Natural vegetation,3,608637,3978030
+219,Point,Natural vegetation,3,564438,3897730
+220,Point,Natural vegetation,3,547662,3974190
+221,Point,Natural vegetation,3,590747,3934430
+222,Point,Natural vegetation,3,545844,3926620
+223,Point,Natural vegetation,3,593639,3883310
+224,Point,Natural vegetation,3,571583,3907810
+225,Point,Natural vegetation,3,542413,3951620
+226,Point,Natural vegetation,3,605549,3931350
+227,Point,Natural vegetation,3,571805,3987580
+228,Point,Natural vegetation,3,595948,3898490
+229,Point,Natural vegetation,3,573091,3993770
+230,Point,Natural vegetation,3,572924,3976490
+231,Point,Natural vegetation,3,545362,3917870
+232,Point,Natural vegetation,3,566842,3951900
+233,Point,Natural vegetation,3,573647,3995370
+234,Point,Natural vegetation,3,576953,3935050
+235,Point,Natural vegetation,3,532088,3947090
+236,Point,Natural vegetation,3,567929,3992360
+237,Point,Natural vegetation,3,604617,3943700
+238,Point,Natural vegetation,3,571385,3964140
+239,Point,Natural vegetation,3,541584,3947630
+240,Point,Natural vegetation,3,582316,3932710
+241,Point,Natural vegetation,3,562225,3985560
+242,Point,Natural vegetation,3,564921,3895230
+243,Point,Natural vegetation,3,547512,3946490
+244,Point,Natural vegetation,3,564813,3989750
+245,Point,Natural vegetation,3,548214,3974240
+246,Point,Natural vegetation,3,547655,3974140
+247,Point,Natural vegetation,3,583746,3907410
+248,Point,Natural vegetation,3,582157,3984860
+249,Point,Natural vegetation,3,555395,3936520
+250,Point,Natural vegetation,3,565553,3933370
+251,Point,Natural vegetation,3,549587,3945480
+252,Point,Natural vegetation,3,563255,3982640
+253,Point,Natural vegetation,3,609809,3932960
+254,Point,Natural vegetation,3,596208,3993730
+255,Point,Natural vegetation,3,609042,3957240
+256,Point,Natural vegetation,3,564314,3937230
+257,Point,Natural vegetation,3,557697,3972550
+258,Point,Natural vegetation,3,568333,3981090
+259,Point,Natural vegetation,3,545436,3914110
+260,Point,Natural vegetation,3,559973,3970010
+261,Point,Natural vegetation,3,544718,3945390
+262,Point,Natural vegetation,3,546252,3914930
+263,Point,Natural vegetation,3,597466,3943970
+264,Point,Natural vegetation,3,607933,3975490
+265,Point,Natural vegetation,3,556822,3984490
+266,Point,Natural vegetation,3,564491,3896490
+267,Point,Natural vegetation,3,563587,3943410
+268,Point,Natural vegetation,3,547093,3975330
+269,Point,Natural vegetation,3,600490,3994210
+270,Point,Natural vegetation,3,571545,3974860
+271,Point,Natural vegetation,3,535068,3949620
+272,Point,Natural vegetation,3,545095,3955110
+273,Point,Natural vegetation,3,555251,3960500
+274,Point,Natural vegetation,3,542148,3947840
+275,Point,Natural vegetation,3,563718,3931850
+276,Point,Natural vegetation,3,595260,3975580
+277,Point,Natural vegetation,3,545352,3916780
+278,Point,Natural vegetation,3,596120,3965030
+279,Point,Natural vegetation,3,569064,3971050
+280,Point,Natural vegetation,3,591360,3904580
+281,Point,Natural vegetation,3,556756,3953500
+282,Point,Natural vegetation,3,597311,3890680
+283,Point,Natural vegetation,3,553555,3916450
+284,Point,Natural vegetation,3,544616,3923010
+285,Point,Natural vegetation,3,552611,3947330
+286,Point,Natural vegetation,3,565066,3993380
+287,Point,Natural vegetation,3,587252,3913040
+288,Point,Natural vegetation,3,587870,3905910
+289,Point,Natural vegetation,3,548720,3913750
+290,Point,Natural vegetation,3,605509,3952650
+291,Point,Natural vegetation,3,546308,3920420
+292,Point,Natural vegetation,3,532854,3944920
+293,Point,Natural vegetation,3,571348,3948890
+294,Point,Natural vegetation,3,564347,3915760
+295,Point,Natural vegetation,3,563911,3896900
+296,Point,Natural vegetation,3,603722,3899160
+297,Point,Natural vegetation,3,541930,3948950
+298,Point,Natural vegetation,3,572618,3984010
+299,Point,Natural vegetation,3,558752,3987610
+300,Point,Natural vegetation,3,560782,3989920
+301,Point,Natural vegetation,3,552203,3938110
+302,Point,Natural vegetation,3,580006,3990690
+303,Point,Natural vegetation,3,563408,3992180
+304,Point,Natural vegetation,3,544676,3947620
+305,Point,Natural vegetation,3,558865,3965640
+306,Point,Natural vegetation,3,544369,3916820
+307,Point,Natural vegetation,3,550280,3939810
+308,Point,Natural vegetation,3,558415,3987310
+309,Point,Natural vegetation,3,549476,3977090
+310,Point,Natural vegetation,3,590316,3904910
+311,Point,Natural vegetation,3,554860,3949580
+312,Point,Natural vegetation,3,609107,3985690
+313,Point,Natural vegetation,3,548413,3976210
+314,Point,Natural vegetation,3,565205,3970620
+315,Point,Natural vegetation,3,608415,3980490
+316,Point,Natural vegetation,3,548702,3974500
+317,Point,Natural vegetation,3,566529,3966070
+318,Point,Natural vegetation,3,595055,3969070
+319,Point,Natural vegetation,3,564857,3906150
+320,Point,Natural vegetation,3,565938,3959800
+321,Point,Natural vegetation,3,559481,3961940
+322,Point,Natural vegetation,3,557791,3934400
+323,Point,Natural vegetation,3,543951,3954350
+324,Point,Natural vegetation,3,550425,3920230
+325,Point,Natural vegetation,3,556595,3986250
+326,Point,Natural vegetation,3,565180,3971480
+327,Point,Natural vegetation,3,556960,3937930
+328,Point,Natural vegetation,3,572926,3907160
+329,Point,Natural vegetation,3,549826,3979080
+330,Point,Natural vegetation,3,596195,3902890
+331,Point,Natural vegetation,3,550581,3977420
+332,Point,Natural vegetation,3,573735,3915100
+333,Point,Natural vegetation,3,529492,3948540
+334,Point,Natural vegetation,3,552556,3972960
+335,Point,Natural vegetation,3,572872,3977610
+336,Point,Natural vegetation,3,565637,3994120
+337,Point,Natural vegetation,3,570610,3944030
+338,Point,Natural vegetation,3,604873,3957970
+339,Point,Natural vegetation,3,541773,3939540
+340,Point,Natural vegetation,3,547165,3950620
+341,Point,Natural vegetation,3,566616,3991590
+342,Point,Natural vegetation,3,612344,3948300
+343,Point,Natural vegetation,3,559548,3931010
+344,Point,Natural vegetation,3,578493,3992490
+345,Point,Natural vegetation,3,549520,3947570
+346,Point,Natural vegetation,3,540671,3950450
+347,Point,Natural vegetation,3,557060,3982940
+348,Point,Natural vegetation,3,544814,3955110
+349,Point,Natural vegetation,3,544984,3953270
+350,Point,Natural vegetation,3,563027,3985020
+351,Point,Natural vegetation,3,579408,3985860
+352,Point,Natural vegetation,3,567053,3992400
+353,Point,Natural vegetation,3,544102,3974600
+354,Point,Natural vegetation,3,560323,3915470
+355,Point,Natural vegetation,3,571999,3982010
+356,Point,Natural vegetation,3,606348,3983690
+357,Point,Natural vegetation,3,549545,3940490
+358,Point,Natural vegetation,3,543251,3946510
+359,Point,Natural vegetation,3,558257,3986190
+360,Point,Natural vegetation,3,603775,3890880
+361,Point,Natural vegetation,3,562120,3980510
+362,Point,Natural vegetation,3,573369,3986160
+363,Point,Natural vegetation,3,570369,3983420
+364,Point,Natural vegetation,3,603503,3985160
+365,Point,Natural vegetation,3,604145,3957910
+366,Point,Natural vegetation,3,548279,3973860
+367,Point,Natural vegetation,3,575197,3981160
+368,Point,Natural vegetation,3,604708,3981640
+369,Point,Natural vegetation,3,597070,3957850
+370,Point,Natural vegetation,3,552528,3938690
+371,Point,Natural vegetation,3,603802,3942210
+372,Point,Natural vegetation,3,543118,3943770
+373,Point,Natural vegetation,3,570713,3986130
+374,Point,Natural vegetation,3,568951,3974530
+375,Point,Natural vegetation,3,567303,3955870
+376,Point,Natural vegetation,3,599982,3965900
+377,Point,Natural vegetation,3,576631,3920010
+378,Point,Natural vegetation,3,554465,3982990
+379,Point,Natural vegetation,3,548538,3977380
+380,Point,Natural vegetation,3,554476,3948420
+381,Point,Natural vegetation,3,556852,3985280
+382,Point,Natural vegetation,3,541650,3944590
+383,Point,Natural vegetation,3,545267,3944610
+384,Point,Natural vegetation,3,560462,3979550
+385,Point,Natural vegetation,3,559536,3987920
+386,Point,Natural vegetation,3,555902,3981350
+387,Point,Natural vegetation,3,548073,3977140
+388,Point,Natural vegetation,3,561586,3988700
+389,Point,Natural vegetation,3,540478,3948910
+390,Point,Other large-scale farming,0,591931,3954870
+391,Point,Other large-scale farming,0,592630,3970810
+392,Point,Other large-scale farming,0,585706,3942540
+393,Point,Other large-scale farming,0,596432,3947360
+394,Point,Other large-scale farming,0,595089,3958890
+395,Point,Other large-scale farming,0,597896,3955390
+396,Point,Other large-scale farming,0,598289,3952900
+397,Point,Other large-scale farming,0,598347,3952750
+398,Point,Other large-scale farming,0,594259,3944280
+399,Point,Other large-scale farming,0,594204,3943820
+400,Point,Other large-scale farming,0,596895,3945040
+401,Point,Other large-scale farming,0,597329,3945820
+402,Point,Other large-scale farming,0,597356,3945860
+403,Point,Other large-scale farming,0,597433,3946090
+404,Point,Other large-scale farming,0,593248,3977850
+405,Point,Other large-scale farming,0,585630,3961190
+406,Point,Other large-scale farming,0,587151,3922900
+407,Point,Other large-scale farming,0,546078,3935510
+408,Point,Other large-scale farming,0,584467,3941620
+409,Point,Other large-scale farming,0,597492,3920650
+410,Point,Other large-scale farming,0,583162,3942150
+411,Point,Other large-scale farming,0,589601,3958050
+412,Point,Other large-scale farming,0,603364,3921180
+413,Point,Other large-scale farming,0,602040,3991300
+414,Point,Other large-scale farming,0,597646,3989660
+415,Point,Other large-scale farming,0,584589,3932430
+416,Point,Other large-scale farming,0,604916,3978220
+417,Point,Other large-scale farming,0,601896,3993430
+418,Point,Other large-scale farming,0,593035,3940350
+419,Point,Other large-scale farming,0,582671,3914380
+420,Point,Other large-scale farming,0,608744,3986970
+421,Point,Other large-scale farming,0,574342,3935020
+422,Point,Other large-scale farming,0,599036,3944120
+423,Point,Other large-scale farming,0,545108,3911120
+424,Point,Other large-scale farming,0,590413,3920550
+425,Point,Other large-scale farming,0,594351,3949350
+426,Point,Other large-scale farming,0,586991,3951290
+427,Point,Other large-scale farming,0,595350,3945910
+428,Point,Other large-scale farming,0,596319,3949320
+429,Point,Other large-scale farming,0,588889,3944240
+430,Point,Other large-scale farming,0,580640,3923780
+431,Point,Other large-scale farming,0,592355,3933890
+432,Point,Other large-scale farming,0,594232,3978730
+433,Point,Other large-scale farming,0,591019,3921690
+434,Point,Other large-scale farming,0,588734,3944880
+435,Point,Other large-scale farming,0,586884,3937600
+436,Point,Other large-scale farming,0,594262,3923540
+437,Point,Other large-scale farming,0,587071,3922190
+438,Point,Other large-scale farming,0,595829,3929420
+439,Point,Other large-scale farming,0,590513,3928250
+440,Point,Other large-scale farming,0,596485,3932100
+441,Point,Other large-scale farming,0,604600,3981740
+442,Point,Other large-scale farming,0,580617,3925120
+443,Point,Other large-scale farming,0,603501,3988130
+444,Point,Other large-scale farming,0,582925,3933830
+445,Point,Other large-scale farming,0,590531,3912990
+446,Point,Other large-scale farming,0,588081,3944230
+447,Point,Other large-scale farming,0,588115,3925670
+448,Point,Other large-scale farming,0,601842,3934710
+449,Point,Other large-scale farming,0,594361,3931290
+450,Point,Other large-scale farming,0,592942,3910460
+451,Point,Other large-scale farming,0,584476,3922440
+452,Point,Other large-scale farming,0,601137,3986260
+453,Point,Other large-scale farming,0,590155,3924820
+454,Point,Other large-scale farming,0,595486,3946590
+455,Point,Other large-scale farming,0,585431,3924910
+456,Point,Other large-scale farming,0,588730,3946390
+457,Point,Other large-scale farming,0,581260,3952260
+458,Point,Other large-scale farming,0,592920,3923380
+459,Point,Other large-scale farming,0,572894,3934970
+460,Point,Other large-scale farming,0,568019,3934890
+461,Point,Other large-scale farming,0,585062,3928880
+462,Point,Other large-scale farming,0,597529,3988250
+463,Point,Other large-scale farming,0,592067,3915100
+464,Point,Other large-scale farming,0,583594,3933380
+465,Point,Other large-scale farming,0,599413,3940500
+466,Point,Other large-scale farming,0,603385,3976940
+467,Point,Other large-scale farming,0,593211,3976680
+468,Point,Other large-scale farming,0,594250,3942850
+469,Point,Other large-scale farming,0,590899,3929080
+470,Point,Other large-scale farming,0,583509,3953170
+471,Point,Other large-scale farming,0,588295,3944920
+472,Point,Other large-scale farming,0,599395,3932930
+473,Point,Other large-scale farming,0,547454,3911450
+474,Point,Other large-scale farming,0,592809,3939600
+475,Point,Other large-scale farming,0,599594,3926710
+476,Point,Other large-scale farming,0,598589,3954380
+477,Point,Other large-scale farming,0,586800,3950990
+478,Point,Other large-scale farming,0,592750,3948110
+479,Point,Other large-scale farming,0,573694,3920110
+480,Point,Other large-scale farming,0,592447,3940290
+481,Point,Other large-scale farming,0,599705,3989150
+482,Point,Other large-scale farming,0,608384,3986570
+483,Point,Other large-scale farming,0,595261,3951360
+484,Point,Other large-scale farming,0,614356,3944950
+485,Point,Other large-scale farming,0,599556,3987690
+486,Point,Other large-scale farming,0,591841,3927900
+487,Point,Other large-scale farming,0,594156,3953260
+488,Point,Other large-scale farming,0,593700,3954140
+489,Point,Other large-scale farming,0,592611,3922880
+490,Point,Other large-scale farming,0,589738,3933930
+491,Point,Other large-scale farming,0,593670,3952710
+492,Point,Other large-scale farming,0,584535,3930980
+493,Point,Other large-scale farming,0,593426,3944860
+494,Point,Other large-scale farming,0,596521,3945520
+495,Point,Other large-scale farming,0,600860,3942910
+496,Point,Other large-scale farming,0,598872,3924920
+497,Point,Other large-scale farming,0,597863,3953000
+498,Point,Other large-scale farming,0,608169,3985780
+499,Point,Other large-scale farming,0,594542,3944830
+500,Point,Other large-scale farming,0,581973,3941280
+501,Point,Other large-scale farming,0,593873,3943780
+502,Point,Other large-scale farming,0,594608,3984040
+503,Point,Other large-scale farming,0,587636,3922110
+504,Point,Other large-scale farming,0,583948,3924510
+505,Point,Other large-scale farming,0,602517,3958140
+506,Point,Other large-scale farming,0,589492,3945370
+507,Point,Other large-scale farming,0,585900,3922580
+508,Point,Other large-scale farming,0,564958,3979870
+509,Point,Other large-scale farming,0,603491,3935900
+510,Point,Other large-scale farming,0,603798,3939880
+511,Point,Other large-scale farming,0,596244,3986930
+512,Point,Other large-scale farming,0,601053,3943730
+513,Point,Other large-scale farming,0,602521,3987870
+514,Point,Other large-scale farming,0,585166,3928600
+515,Point,Other large-scale farming,0,602520,3980770
+516,Point,Other large-scale farming,0,585628,3934800
+517,Point,Other large-scale farming,0,588181,3921520
+518,Point,Other large-scale farming,0,554185,3916800
+519,Point,Other large-scale farming,0,595403,3943900
+520,Point,Other large-scale farming,0,592728,3920360
+521,Point,Other large-scale farming,0,584789,3928810
+522,Point,Other large-scale farming,0,587709,3926350
+523,Point,Other large-scale farming,0,541175,3933160
+524,Point,Other large-scale farming,0,592526,3911050
+525,Point,Other large-scale farming,0,603809,3989460
+526,Point,Other large-scale farming,0,581227,3934400
+527,Point,Other large-scale farming,0,588334,3926150
+528,Point,Other large-scale farming,0,564702,3930460
+529,Point,Other large-scale farming,0,597513,3910430
+530,Point,Other large-scale farming,0,595740,3943540
+531,Point,Other large-scale farming,0,582558,3963670
+532,Point,Other large-scale farming,0,601092,3925360
+533,Point,Other large-scale farming,0,579101,3955340
+534,Point,Other large-scale farming,0,595253,3931830
+535,Point,Other large-scale farming,0,593422,3927360
+536,Point,Other large-scale farming,0,590829,3931390
+537,Point,Other large-scale farming,0,593471,3944920
+538,Point,Other large-scale farming,0,588626,3924430
+539,Point,Other large-scale farming,0,593216,3919460
+540,Point,Other large-scale farming,0,603939,3986790
+541,Point,Other large-scale farming,0,592738,3937400
+542,Point,Other large-scale farming,0,587605,3923460
+543,Point,Other large-scale farming,0,584293,3936260
+544,Point,Other large-scale farming,0,594245,3976010
+545,Point,Other large-scale farming,0,584041,3924500
+546,Point,Other large-scale farming,0,589923,3936610
+547,Point,Other large-scale farming,0,603539,3987130
+548,Point,Other large-scale farming,0,591098,3939180
+549,Point,Other large-scale farming,0,607179,3908850
+550,Point,Other large-scale farming,0,607420,3908300
+551,Point,Other large-scale farming,0,607367,3908240
+552,Point,Other large-scale farming,0,606711,3908760
+553,Point,Other large-scale farming,0,606192,3909080
+554,Point,Other large-scale farming,0,605967,3909470
+555,Point,Other large-scale farming,0,595734,3907940
+556,Point,Other large-scale farming,0,595297,3908100
+557,Point,Other large-scale farming,0,594480,3907740
+558,Point,Other large-scale farming,0,594977,3907590
+559,Point,Other large-scale farming,0,595522,3907560
+560,Point,Other large-scale farming,0,597355,3904610
+561,Point,Other large-scale farming,0,597076,3904240
+562,Point,Other large-scale farming,0,597397,3904230
+563,Point,Other large-scale farming,0,596971,3904040
+564,Point,Other large-scale farming,0,563706,3927290
+565,Point,Other large-scale farming,0,563786,3927380
+566,Point,Other large-scale farming,0,563865,3927280
+567,Point,Other large-scale farming,0,563944,3927620
+568,Point,Other large-scale farming,0,565059,3927350
+569,Point,Other large-scale farming,0,565006,3928040
+570,Point,Other large-scale farming,0,565135,3928340
+571,Point,Other large-scale farming,0,592780,3895530
+572,Point,Other large-scale farming,0,592348,3895660
+573,Point,Other large-scale farming,0,592797,3885020
+574,Point,Other large-scale farming,0,592027,3884640
+575,Point,Other large-scale farming,0,592423,3884460
+576,Point,Other large-scale farming,0,592319,3884130
+577,Point,Other large-scale farming,0,592118,3884240
+578,Point,Other large-scale farming,0,591798,3884170
+579,Point,Other large-scale farming,0,591872,3883820
+580,Point,Other large-scale farming,0,546101,3922760
+581,Point,Other large-scale farming,0,546155,3922690
+582,Point,Other large-scale farming,0,546323,3923170
+583,Point,Other large-scale farming,0,546250,3923210
+584,Point,Other large-scale farming,0,546028,3923350
+585,Point,Perennial crops,2,592267,3934960
+586,Point,Perennial crops,2,590457,3933280
+587,Point,Perennial crops,2,593439,3935550
+588,Point,Perennial crops,2,594836,3932870
+589,Point,Perennial crops,2,594776,3933650
+590,Point,Perennial crops,2,593914,3935190
+591,Point,Perennial crops,2,594667,3932670
+592,Point,Perennial crops,2,593369,3931900
+593,Point,Perennial crops,2,592632,3931710
+594,Point,Perennial crops,2,591901,3931120
+595,Point,Perennial crops,2,590445,3930160
+596,Point,Perennial crops,2,588289,3928970
+597,Point,Perennial crops,2,586197,3926850
+598,Point,Perennial crops,2,596239,3923620
+599,Point,Perennial crops,2,596517,3923200
+600,Point,Perennial crops,2,596379,3923710
+601,Point,Perennial crops,2,596248,3923930
+602,Point,Perennial crops,2,596697,3926010
+603,Point,Perennial crops,2,596770,3927730
+604,Point,Perennial crops,2,596118,3932350
+605,Point,Perennial crops,2,598108,3939290
+606,Point,Perennial crops,2,599023,3934120
+607,Point,Perennial crops,2,598846,3932920
+608,Point,Perennial crops,2,599052,3932410
+609,Point,Perennial crops,2,596823,3958800
+610,Point,Perennial crops,2,597307,3956660
+611,Point,Perennial crops,2,592504,3954460
+612,Point,Perennial crops,2,591644,3955410
+613,Point,Perennial crops,2,590117,3965670
+614,Point,Perennial crops,2,591284,3970590
+615,Point,Perennial crops,2,591332,3970880
+616,Point,Perennial crops,2,586369,3944410
+617,Point,Perennial crops,2,586863,3943060
+618,Point,Perennial crops,2,591285,3945210
+619,Point,Perennial crops,2,593058,3945900
+620,Point,Perennial crops,2,593328,3949110
+621,Point,Perennial crops,2,593497,3949080
+622,Point,Perennial crops,2,595877,3954970
+623,Point,Perennial crops,2,595992,3954780
+624,Point,Perennial crops,2,595940,3955110
+625,Point,Perennial crops,2,570084,3933290
+626,Point,Perennial crops,2,570089,3933700
+627,Point,Perennial crops,2,560508,3926570
+628,Point,Perennial crops,2,556337,3924050
+629,Point,Perennial crops,2,556005,3924010
+630,Point,Perennial crops,2,555497,3923700
+631,Point,Perennial crops,2,548648,3919030
+632,Point,Perennial crops,2,553864,3909360
+633,Point,Perennial crops,2,555125,3907630
+634,Point,Perennial crops,2,555760,3905690
+635,Point,Perennial crops,2,571790,3919620
+636,Point,Perennial crops,2,578206,3912730
+637,Point,Perennial crops,2,596582,3921400
+638,Point,Perennial crops,2,596875,3923460
+639,Point,Perennial crops,2,596381,3923520
+640,Point,Perennial crops,2,597077,3924380
+641,Point,Perennial crops,2,596309,3924330
+642,Point,Perennial crops,2,596955,3926030
+643,Point,Perennial crops,2,596488,3926340
+644,Point,Perennial crops,2,596712,3928320
+645,Point,Perennial crops,2,594882,3933290
+646,Point,Perennial crops,2,585022,3926530
+647,Point,Perennial crops,2,584163,3925630
+648,Point,Perennial crops,2,581983,3923700
+649,Point,Perennial crops,2,581884,3923850
+650,Point,Perennial crops,2,591617,3953700
+651,Point,Perennial crops,2,592181,3954530
+652,Point,Perennial crops,2,591859,3954160
+653,Point,Perennial crops,2,589285,3957270
+654,Point,Perennial crops,2,589485,3963940
+655,Point,Perennial crops,2,589960,3965730
+656,Point,Perennial crops,2,590159,3965610
+657,Point,Perennial crops,2,590970,3968770
+658,Point,Perennial crops,2,590637,3968900
+659,Point,Perennial crops,2,591153,3971450
+660,Point,Perennial crops,2,590502,3977560
+661,Point,Perennial crops,2,589620,3978350
+662,Point,Perennial crops,2,589112,3978710
+663,Point,Perennial crops,2,588306,3980250
+664,Point,Perennial crops,2,588120,3980500
+665,Point,Perennial crops,2,558044,3912190
+666,Point,Perennial crops,2,606366,3930250
+667,Point,Perennial crops,2,601751,3998480
+668,Point,Perennial crops,2,600872,3906010
+669,Point,Perennial crops,2,594629,3993820
+670,Point,Perennial crops,2,551590,3912300
+671,Point,Perennial crops,2,575380,3937430
+672,Point,Perennial crops,2,592931,3886710
+673,Point,Perennial crops,2,587280,3980950
+674,Point,Perennial crops,2,567990,3937070
+675,Point,Perennial crops,2,564903,3912780
+676,Point,Perennial crops,2,599980,3978660
+677,Point,Perennial crops,2,580157,3957860
+678,Point,Perennial crops,2,568575,3912970
+679,Point,Perennial crops,2,570632,3953120
+680,Point,Perennial crops,2,589276,3947470
+681,Point,Perennial crops,2,585441,3918730
+682,Point,Perennial crops,2,578037,3979140
+683,Point,Perennial crops,2,605518,3992080
+684,Point,Perennial crops,2,601363,3991150
+685,Point,Perennial crops,2,570587,3962400
+686,Point,Perennial crops,2,609361,3990190
+687,Point,Perennial crops,2,545447,3919610
+688,Point,Perennial crops,2,599554,3941960
+689,Point,Perennial crops,2,569680,3983710
+690,Point,Perennial crops,2,574030,3994750
+691,Point,Perennial crops,2,539293,3952490
+692,Point,Perennial crops,2,587831,3941310
+693,Point,Perennial crops,2,552854,3971900
+694,Point,Perennial crops,2,578644,3935880
+695,Point,Perennial crops,2,590142,3968370
+696,Point,Perennial crops,2,582261,3916160
+697,Point,Perennial crops,2,566435,3959190
+698,Point,Perennial crops,2,567290,3945250
+699,Point,Perennial crops,2,554132,3933180
+700,Point,Perennial crops,2,594405,3926630
+701,Point,Perennial crops,2,567753,3967320
+702,Point,Perennial crops,2,571191,3980880
+703,Point,Perennial crops,2,565899,3912960
+704,Point,Perennial crops,2,584894,3898900
+705,Point,Perennial crops,2,563653,3917110
+706,Point,Perennial crops,2,594486,3941660
+707,Point,Perennial crops,2,594270,3892070
+708,Point,Perennial crops,2,576502,3928950
+709,Point,Perennial crops,2,577763,3972010
+710,Point,Perennial crops,2,603717,3998080
+711,Point,Perennial crops,2,594727,3976850
+712,Point,Perennial crops,2,600818,3895560
+713,Point,Perennial crops,2,575321,3943100
+714,Point,Perennial crops,2,583289,3975730
+715,Point,Perennial crops,2,551440,3975970
+716,Point,Perennial crops,2,565995,3949710
+717,Point,Perennial crops,2,551061,3915010
+718,Point,Perennial crops,2,604633,3984590
+719,Point,Perennial crops,2,590049,3914700
+720,Point,Perennial crops,2,551212,3962190
+721,Point,Perennial crops,2,560671,3966780
+722,Point,Perennial crops,2,579808,3951580
+723,Point,Perennial crops,2,571502,3938920
+724,Point,Perennial crops,2,576598,3963360
+725,Point,Perennial crops,2,603657,3919830
+726,Point,Perennial crops,2,600486,3910490
+727,Point,Perennial crops,2,559160,3940100
+728,Point,Perennial crops,2,551312,3937610
+729,Point,Perennial crops,2,562693,3899350
+730,Point,Perennial crops,2,560469,3925250
+731,Point,Perennial crops,2,574806,3898130
+732,Point,Perennial crops,2,582322,3985440
+733,Point,Perennial crops,2,555050,3907420
+734,Point,Perennial crops,2,598971,3901520
+735,Point,Perennial crops,2,550544,3964720
+736,Point,Perennial crops,2,555103,3938180
+737,Point,Perennial crops,2,580503,3946340
+738,Point,Perennial crops,2,599185,3924460
+739,Point,Perennial crops,2,578274,3931490
+740,Point,Perennial crops,2,570465,3910090
+741,Point,Perennial crops,2,575157,3967180
+742,Point,Perennial crops,2,556980,3912200
+743,Point,Perennial crops,2,591162,3883580
+744,Point,Perennial crops,2,589452,3896870
+745,Point,Perennial crops,2,591481,3970900
+746,Point,Perennial crops,2,597989,3980000
+747,Point,Perennial crops,2,599645,3892530
+748,Point,Perennial crops,2,570429,3927540
+749,Point,Perennial crops,2,603702,3928790
+750,Point,Perennial crops,2,561968,3949530
+751,Point,Perennial crops,2,551533,3942270
+752,Point,Perennial crops,2,608212,3987700
+753,Point,Perennial crops,2,595055,3989040
+754,Point,Perennial crops,2,560027,3942980
+755,Point,Perennial crops,2,566373,3942070
+756,Point,Perennial crops,2,601779,3990120
+757,Point,Perennial crops,2,590821,3939610
+758,Point,Perennial crops,2,565990,3955380
+759,Point,Perennial crops,2,586353,3901200
+760,Point,Perennial crops,2,587699,3951050
+761,Point,Perennial crops,2,559274,3927840
+762,Point,Perennial crops,2,588053,3916390
+763,Point,Perennial crops,2,609957,3945360
+764,Point,Perennial crops,2,547649,3936550
+765,Point,Perennial crops,2,603937,3993340
+766,Point,Perennial crops,2,588401,3980260
+767,Point,Perennial crops,2,605558,3992940
+768,Point,Perennial crops,2,604039,3902700
+769,Point,Perennial crops,2,598047,3986580
+770,Point,Perennial crops,2,603748,3981600
+771,Point,Perennial crops,2,570453,3962330
+772,Point,Perennial crops,2,571452,3981520
+773,Point,Perennial crops,2,605144,3998890
+774,Point,Perennial crops,2,603990,3904030
+775,Point,Perennial crops,2,602303,3902040
+776,Point,Perennial crops,2,585830,3979220
+777,Point,Perennial crops,2,588623,3964930
+778,Point,Perennial crops,2,607316,3988530
+779,Point,Perennial crops,2,599067,3977660
+780,Point,Perennial crops,2,593141,3935560
+781,Point,Perennial crops,2,592523,3935170
+782,Point,Perennial crops,2,589003,3922310
+783,Point,Perennial crops,2,588655,3921770
+784,Point,Wheat,1,588438,3921130
+785,Point,Wheat,1,588076,3920760
+786,Point,Wheat,1,588160,3920450
+787,Point,Perennial crops,2,586894,3922770
+788,Point,Perennial crops,2,588137,3920010
+789,Point,Perennial crops,2,586641,3922990
+790,Point,Perennial crops,2,583437,3922670
+791,Point,Perennial crops,2,581969,3923630
+792,Point,Perennial crops,2,581920,3923910
+793,Point,Perennial crops,2,584189,3925550
+794,Point,Perennial crops,2,594572,3932410
+795,Point,Perennial crops,2,594484,3932190
+796,Point,Perennial crops,2,593608,3930830
+797,Point,Perennial crops,2,593318,3929770
+798,Point,Perennial crops,2,593351,3928990
+799,Point,Perennial crops,2,593504,3928470
+800,Point,Perennial crops,2,593771,3926980
+801,Point,Perennial crops,2,593887,3926280
+802,Point,Perennial crops,2,594771,3924480
+803,Point,Perennial crops,2,595581,3923980
+804,Point,Perennial crops,2,594704,3933710
+805,Point,Perennial crops,2,597217,3940000
+806,Point,Perennial crops,2,598057,3939400
+807,Point,Perennial crops,2,598960,3938580
+808,Point,Perennial crops,2,599111,3936750
+809,Point,Perennial crops,2,599031,3932750
+810,Point,Perennial crops,2,599067,3931330
+811,Point,Perennial crops,2,599259,3930780
+812,Point,Perennial crops,2,600771,3936640
+813,Point,Wheat,1,592639,3950740
+814,Point,Wheat,1,592680,3950730
+815,Point,Perennial crops,2,592667,3950610
+816,Point,Wheat,1,593090,3951250
+817,Point,Wheat,1,593411,3952110
+818,Point,Wheat,1,593900,3952640
+819,Point,Wheat,1,593954,3952810
+820,Point,Wheat,1,593984,3952730
+821,Point,Wheat,1,594131,3952860
+822,Point,Wheat,1,594220,3952930
+823,Point,Wheat,1,594163,3953000
+824,Point,Wheat,1,594091,3952920
+825,Point,Wheat,1,594344,3953130
+826,Point,Wheat,1,594169,3953490
+827,Point,Wheat,1,594123,3953450
+828,Point,Wheat,1,594140,3953530
+829,Point,Wheat,1,593928,3953700
+830,Point,Wheat,1,593674,3953950
+831,Point,Wheat,1,593600,3953910
+832,Point,Wheat,1,593538,3953960
+833,Point,Wheat,1,593399,3954190
+834,Point,Perennial crops,2,594760,3937590
+835,Point,Wheat,1,589741,3957100
+836,Point,Wheat,1,589565,3957070
+837,Point,Wheat,1,589439,3957160
+838,Point,Wheat,1,588679,3958390
+839,Point,Perennial crops,2,588466,3958940
+840,Point,Perennial crops,2,589308,3957230
+841,Point,Wheat,1,590085,3953840
+842,Point,Wheat,1,590087,3953780
+843,Point,Wheat,1,590348,3953370
+844,Point,Wheat,1,591312,3952040
+845,Point,Wheat,1,591568,3951840
+846,Point,Wheat,1,591751,3951910
+847,Point,Wheat,1,591814,3951690
+848,Point,Wheat,1,591914,3951640
+849,Point,Wheat,1,597869,3945290
+850,Point,Wheat,1,598271,3943950
+851,Point,Wheat,1,597568,3944030
+852,Point,Wheat,1,595263,3938640
+853,Point,Wheat,1,594435,3937190
+854,Point,Wheat,1,594273,3936980
+855,Point,Perennial crops,2,593955,3936440
+856,Point,Wheat,1,593753,3936400
+857,Point,Wheat,1,592264,3934790
+858,Point,Wheat,1,592126,3934650
+859,Point,Wheat,1,591953,3934650
+860,Point,Wheat,1,591858,3934540
+861,Point,Wheat,1,591748,3934360
+862,Point,Wheat,1,591503,3934030
+863,Point,Wheat,1,591121,3933870
+864,Point,Wheat,1,590815,3933860
+865,Point,Wheat,1,591342,3933600
+866,Point,Wheat,1,590621,3933560
+867,Point,Perennial crops,2,590523,3933360
+868,Point,Wheat,1,593538,3935600
+869,Point,Perennial crops,2,594033,3934950
+870,Point,Perennial crops,2,594008,3934490
+871,Point,Wheat,1,594061,3934360
+872,Point,Wheat,1,594430,3933310
+873,Point,Perennial crops,2,593414,3932060
+874,Point,Wheat,1,592941,3931470
+875,Point,Wheat,1,592239,3931610
+876,Point,Wheat,1,592202,3931480
+877,Point,Wheat,1,591666,3930970
+878,Point,Wheat,1,591478,3930860
+879,Point,Perennial crops,2,590437,3930310
+880,Point,Wheat,1,586555,3926510
+881,Point,Wheat,1,587071,3925980
+882,Point,Wheat,1,587279,3925810
+883,Point,Wheat,1,587722,3925410
+884,Point,Wheat,1,587843,3925090
+885,Point,Wheat,1,588064,3924970
+886,Point,Wheat,1,588082,3924750
+887,Point,Wheat,1,588261,3924720
+888,Point,Perennial crops,2,588490,3924380
+889,Point,Perennial crops,2,589289,3922120
+890,Point,Perennial crops,2,588948,3922180
+891,Point,Wheat,1,589040,3922060
+892,Point,Wheat,1,588781,3921730
+893,Point,Perennial crops,2,588649,3921530
+894,Point,Wheat,1,588199,3921240
+895,Point,Wheat,1,588080,3920350
+896,Point,Wheat,1,588222,3920110
+897,Point,Perennial crops,2,588258,3919660
+898,Point,Wheat,1,587945,3919630
+899,Point,Perennial crops,2,587479,3919940
+900,Point,Wheat,1,587295,3920110
+901,Point,Wheat,1,586816,3920310
+902,Point,Wheat,1,586236,3921030
+903,Point,Wheat,1,586457,3921030
+904,Point,Wheat,1,586553,3921360
+905,Point,Wheat,1,586485,3921500
+906,Point,Perennial crops,2,584217,3922740
+907,Point,Wheat,1,583283,3923100
+908,Point,Wheat,1,583304,3923300
+909,Point,Wheat,1,583512,3923550
+910,Point,Wheat,1,583125,3923680
+911,Point,Wheat,1,582515,3923630
+912,Point,Wheat,1,582194,3923630
+913,Point,Wheat,1,582091,3923790
+914,Point,Wheat,1,582273,3923920
+915,Point,Wheat,1,582287,3924110
+916,Point,Perennial crops,2,583106,3924480
+917,Point,Wheat,1,585079,3926140
+918,Point,Wheat,1,585116,3926330
+919,Point,Wheat,1,585473,3926690
+920,Point,Wheat,1,586972,3927940
+921,Point,Wheat,1,587119,3928060
+922,Point,Wheat,1,587661,3927970
+923,Point,Wheat,1,587736,3928350
+924,Point,Wheat,1,587910,3928510
+925,Point,Wheat,1,588511,3928740
+926,Point,Wheat,1,588548,3929140
+927,Point,Wheat,1,589266,3929640
+928,Point,Wheat,1,589195,3929860
+929,Point,Wheat,1,589216,3929870
+930,Point,Wheat,1,589754,3929760
+931,Point,Wheat,1,591010,3930480
+932,Point,Perennial crops,2,593297,3932020
+933,Point,Perennial crops,2,594088,3932410
+934,Point,Wheat,1,593596,3928310
+935,Point,Perennial crops,2,593280,3928690
+936,Point,Wheat,1,593221,3928680
+937,Point,Wheat,1,593218,3928570
+938,Point,Perennial crops,2,593313,3928590
+939,Point,Wheat,1,593592,3928250
+940,Point,Wheat,1,593565,3928140
+941,Point,Wheat,1,593598,3928020
+942,Point,Wheat,1,593652,3927920
+943,Point,Wheat,1,593599,3927360
+944,Point,Wheat,1,593807,3927240
+945,Point,Wheat,1,593362,3926410
+946,Point,Perennial crops,2,593695,3926300
+947,Point,Perennial crops,2,593718,3926090
+948,Point,Wheat,1,593934,3925590
+949,Point,Wheat,1,594020,3925070
+950,Point,Perennial crops,2,596378,3923640
+951,Point,Wheat,1,594424,3924950
+952,Point,Wheat,1,594694,3925050
+953,Point,Wheat,1,594490,3924720
+954,Point,Wheat,1,594655,3924590
+955,Point,Wheat,1,595061,3924390
+956,Point,Wheat,1,599039,3933930
+957,Point,Wheat,1,596563,3932130
+958,Point,Wheat,1,596762,3931220
+959,Point,Wheat,1,596724,3931380
+960,Point,Wheat,1,596697,3931460
+961,Point,Wheat,1,596616,3932260
+962,Point,Wheat,1,594856,3933270
+963,Point,Wheat,1,594110,3934610
+964,Point,Wheat,1,593734,3935120
+965,Point,Wheat,1,593800,3935900
+966,Point,Wheat,1,594208,3937160
+967,Point,Wheat,1,594568,3937340
+968,Point,Wheat,1,594649,3937400
+969,Point,Wheat,1,598909,3938770
+970,Point,Wheat,1,598676,3938680
+971,Point,Wheat,1,598919,3938270
+972,Point,Wheat,1,598912,3938080
+973,Point,Wheat,1,598833,3937510
+974,Point,Wheat,1,598846,3936990
+975,Point,Wheat,1,598627,3936970
+976,Point,Wheat,1,598895,3935780
+977,Point,Perennial crops,2,599185,3931350
+978,Point,Perennial crops,2,599472,3932530
+979,Point,Perennial crops,2,599312,3932560
+980,Point,Perennial crops,2,599083,3933810
+981,Point,Perennial crops,2,599150,3933660
+982,Point,Perennial crops,2,599740,3934100
+983,Point,Wheat,1,599918,3934890
+984,Point,Wheat,1,600219,3935150
+985,Point,Wheat,1,599834,3935380
+986,Point,Perennial crops,2,600115,3935530
+987,Point,Wheat,1,600183,3935580
+988,Point,Wheat,1,600212,3935800
+989,Point,Wheat,1,600319,3935790
+990,Point,Perennial crops,2,601080,3935920
+991,Point,Perennial crops,2,601072,3936110
+992,Point,Wheat,1,601305,3936200
+993,Point,Wheat,1,601015,3936450
+994,Point,Wheat,1,600842,3936500
+995,Point,Wheat,1,600988,3936760
+996,Point,Wheat,1,601280,3936890
+997,Point,Wheat,1,601710,3937020
+998,Point,Wheat,1,601713,3937300
+999,Point,Wheat,1,601676,3937540
+1000,Point,Wheat,1,601595,3937730
+1001,Point,Wheat,1,601333,3937900
+1002,Point,Wheat,1,600895,3938890
+1003,Point,Wheat,1,601044,3939000
+1004,Point,Wheat,1,601039,3939160
+1005,Point,Wheat,1,601028,3939310
+1006,Point,Wheat,1,601161,3939460
+1007,Point,Wheat,1,601016,3939580
+1008,Point,Other large-scale farming,0,600945,3939870
+1009,Point,Wheat,1,597404,3945950
+1010,Point,Wheat,1,597335,3945830
+1011,Point,Wheat,1,597235,3945710
+1012,Point,Wheat,1,597161,3945320
+1013,Point,Wheat,1,597047,3945190
+1014,Point,Wheat,1,596982,3945090
+1015,Point,Wheat,1,596929,3945010
+1016,Point,Wheat,1,596684,3945080
+1017,Point,Wheat,1,597560,3944440
+1018,Point,Wheat,1,596802,3944530
+1019,Point,Wheat,1,596723,3944450
+1020,Point,Wheat,1,596217,3944670
+1021,Point,Wheat,1,596197,3944550
+1022,Point,Wheat,1,596441,3944060
+1023,Point,Wheat,1,595962,3944080
+1024,Point,Wheat,1,595878,3943970
+1025,Point,Wheat,1,595760,3943830
+1026,Point,Wheat,1,595605,3943900
+1027,Point,Wheat,1,595547,3943840
+1028,Point,Perennial crops,2,595198,3943120
+1029,Point,Perennial crops,2,595000,3943090
+1030,Point,Wheat,1,592878,3943370
+1031,Point,Wheat,1,592741,3943400
+1032,Point,Wheat,1,592365,3943430
+1033,Point,Wheat,1,592196,3943650
+1034,Point,Wheat,1,592271,3943740
+1035,Point,Wheat,1,591989,3943890
+1036,Point,Perennial crops,2,591878,3943490
+1037,Point,Wheat,1,595318,3946990
+1038,Point,Wheat,1,593122,3944120
+1039,Point,Wheat,1,593062,3944380
+1040,Point,Wheat,1,592905,3944550
+1041,Point,Wheat,1,592697,3944550
+1042,Point,Wheat,1,592578,3944690
+1043,Point,Wheat,1,592529,3944740
+1044,Point,Wheat,1,592392,3945140
+1045,Point,Wheat,1,592724,3944950
+1046,Point,Wheat,1,593509,3945420
+1047,Point,Wheat,1,593522,3945320
+1048,Point,Wheat,1,593546,3945290
+1049,Point,Wheat,1,593437,3945470
+1050,Point,Wheat,1,593525,3945540
+1051,Point,Wheat,1,593632,3945610
+1052,Point,Wheat,1,593522,3945910
+1053,Point,Wheat,1,593292,3946280
+1054,Point,Wheat,1,594181,3946360
+1055,Point,Wheat,1,594275,3946740
+1056,Point,Wheat,1,594404,3946930
+1057,Point,Wheat,1,595877,3946970
+1058,Point,Wheat,1,595974,3947400
+1059,Point,Wheat,1,596202,3947310
+1060,Point,Wheat,1,596510,3947420
+1061,Point,Perennial crops,2,592953,3951630
+1062,Point,Wheat,1,595006,3953710
+1063,Point,Perennial crops,2,595317,3954300
+1064,Point,Other large-scale farming,0,595581,3954540
+1065,Point,Perennial crops,2,595183,3957830
+1066,Point,Perennial crops,2,596850,3961200
+1067,Point,Perennial crops,2,596329,3962370
+1068,Point,Wheat,1,596132,3949970
+1069,Point,Other large-scale farming,0,595976,3950060
+1070,Point,Wheat,1,594018,3950970
+1071,Point,Wheat,1,593266,3952180
+1072,Point,Wheat,1,593621,3952370
+1073,Point,Wheat,1,593698,3952390
+1074,Point,Wheat,1,593965,3952810
+1075,Point,Wheat,1,594186,3953030
+1076,Point,Wheat,1,594247,3953420
+1077,Point,Wheat,1,594063,3953380
+1078,Point,Wheat,1,593952,3953700
+1079,Point,Wheat,1,593669,3954040
+1080,Point,Wheat,1,593354,3954260
+1081,Point,Wheat,1,593250,3954400
+1082,Point,Wheat,1,592907,3954270
+1083,Point,Other large-scale farming,0,592219,3954890
+1084,Point,Wheat,1,591385,3955450
+1085,Point,Wheat,1,590407,3956270
+1086,Point,Wheat,1,588667,3958690
+1087,Point,Wheat,1,588389,3959300
+1088,Point,Wheat,1,589401,3944270
+1089,Point,Wheat,1,592506,3945630
+1090,Point,Wheat,1,594501,3946390
+1091,Point,Wheat,1,595287,3947080
+1092,Point,Wheat,1,595900,3947330
+1093,Point,Wheat,1,591763,3951680
+1094,Point,Wheat,1,593098,3950630
+1095,Point,Wheat,1,592969,3950530
+1096,Point,Wheat,1,592749,3950670
+1097,Point,Wheat,1,592708,3950760
+1098,Point,Wheat,1,592879,3950920
+1099,Point,Wheat,1,593168,3950070
+1100,Point,Wheat,1,592951,3950100
+1101,Point,Wheat,1,592944,3949760
+1102,Point,Wheat,1,592705,3948940
+1103,Point,Wheat,1,592484,3949010
+1104,Point,Wheat,1,592197,3949110
+1105,Point,Wheat,1,592769,3951130
+1106,Point,Wheat,1,592713,3951400
+1107,Point,Wheat,1,592862,3951500
+1108,Point,Wheat,1,592990,3951960
+1109,Point,Wheat,1,593335,3951820
+1110,Point,Wheat,1,593564,3952620
+1111,Point,Wheat,1,593799,3952490
+1112,Point,Wheat,1,593804,3952720
+1113,Point,Wheat,1,594079,3952810
+1114,Point,Wheat,1,594313,3953060
+1115,Point,Wheat,1,594436,3953280
+1116,Point,Wheat,1,595325,3954080
+1117,Point,Wheat,1,594497,3953510
+1118,Point,Wheat,1,595671,3954390
+1119,Point,Wheat,1,595645,3954710
+1120,Point,Wheat,1,596177,3955360
+1121,Point,Perennial crops,2,596263,3955230
+1122,Point,Wheat,1,596308,3955620
+1123,Point,Wheat,1,596327,3955420
+1124,Point,Perennial crops,2,595948,3955800
+1125,Point,Perennial crops,2,596145,3955880
+1126,Point,Perennial crops,2,595589,3955700
+1127,Point,Perennial crops,2,595673,3956010
+1128,Point,Perennial crops,2,595817,3956560
+1129,Point,Perennial crops,2,595628,3956520
+1130,Point,Perennial crops,2,595563,3957150
+1131,Point,Perennial crops,2,595652,3956980
+1132,Point,Perennial crops,2,595489,3957290
+1133,Point,Perennial crops,2,595258,3957550
+1134,Point,Perennial crops,2,595436,3957720
+1135,Point,Wheat,1,595423,3958150
+1136,Point,Perennial crops,2,595235,3957970
+1137,Point,Perennial crops,2,595071,3958450
+1138,Point,Perennial crops,2,595159,3958550
+1139,Point,Perennial crops,2,596006,3959300
+1140,Point,Perennial crops,2,595810,3959570
+1141,Point,Perennial crops,2,596140,3959530
+1142,Point,Perennial crops,2,595939,3960300
+1143,Point,Perennial crops,2,596539,3962140
+1144,Point,Perennial crops,2,597369,3958620
+1145,Point,Perennial crops,2,597015,3958410
+1146,Point,Wheat,1,598481,3951930
+1147,Point,Wheat,1,596800,3946930
+1148,Point,Wheat,1,597085,3946540
+1149,Point,Wheat,1,596852,3946330
+1150,Point,Wheat,1,596730,3946550
+1151,Point,Wheat,1,596618,3946060
+1152,Point,Wheat,1,596499,3946160
+1153,Point,Wheat,1,596485,3945960
+1154,Point,Wheat,1,596136,3945820
+1155,Point,Wheat,1,596215,3945730
+1156,Point,Wheat,1,596002,3945400
+1157,Point,Wheat,1,595833,3945590
+1158,Point,Wheat,1,595884,3945330
+1159,Point,Wheat,1,595601,3945440
+1160,Point,Wheat,1,595774,3945300
+1161,Point,Wheat,1,595742,3945270
+1162,Point,Wheat,1,595604,3945330
+1163,Point,Wheat,1,595372,3945180
+1164,Point,Wheat,1,595330,3944890
+1165,Point,Wheat,1,595090,3945040
+1166,Point,Wheat,1,595131,3944740
+1167,Point,Wheat,1,594809,3944910
+1168,Point,Perennial crops,2,594947,3944640
+1169,Point,Wheat,1,594801,3944510
+1170,Point,Wheat,1,594579,3944520
+1171,Point,Wheat,1,594725,3944380
+1172,Point,Wheat,1,594415,3944490
+1173,Point,Wheat,1,594563,3944270
+1174,Point,Wheat,1,594386,3943780
+1175,Point,Wheat,1,594223,3943880
+1176,Point,Wheat,1,593804,3943570
+1177,Point,Wheat,1,593995,3943340
+1178,Point,Wheat,1,593738,3943510
+1179,Point,Wheat,1,593753,3943340
+1180,Point,Perennial crops,2,593673,3943450
+1181,Point,Wheat,1,593558,3943400
+1182,Point,Wheat,1,593568,3943190
+1183,Point,Wheat,1,593694,3943010
+1184,Point,Wheat,1,594585,3943390
+1185,Point,Wheat,1,594637,3943150
+1186,Point,Wheat,1,594469,3942910
+1187,Point,Wheat,1,594565,3942830
+1188,Point,Wheat,1,594965,3943030
+1189,Point,Wheat,1,595060,3943230
+1190,Point,Wheat,1,595176,3943110
+1191,Point,Wheat,1,596128,3944200
+1192,Point,Wheat,1,596086,3944310
+1193,Point,Wheat,1,596326,3944520
+1194,Point,Wheat,1,596329,3944340
+1195,Point,Wheat,1,596184,3944440
+1196,Point,Wheat,1,596417,3944630
+1197,Point,Wheat,1,596505,3944690
+1198,Point,Wheat,1,596593,3944860
+1199,Point,Wheat,1,596697,3944990
+1200,Point,Wheat,1,596748,3945160
+1201,Point,Wheat,1,596806,3945200
+1202,Point,Wheat,1,597043,3945480
+1203,Point,Wheat,1,597150,3945330
+1204,Point,Wheat,1,597182,3945630
+1205,Point,Wheat,1,597280,3945490
+1206,Point,Wheat,1,597222,3945720
+1207,Point,Wheat,1,597271,3945740
+1208,Point,Wheat,1,597355,3945590
+1209,Point,Wheat,1,597409,3945670
+1210,Point,Wheat,1,597473,3945700
+1211,Point,Perennial crops,2,595340,3938330
+1212,Point,Perennial crops,2,594423,3936730
+1213,Point,Perennial crops,2,594522,3936880
+1214,Point,Wheat,1,594190,3936860
+1215,Point,Wheat,1,594122,3936730
+1216,Point,Perennial crops,2,593969,3936410
+1217,Point,Wheat,1,593889,3936300
+1218,Point,Wheat,1,593730,3936110
+1219,Point,Wheat,1,593640,3936290
+1220,Point,Wheat,1,593628,3936440
+1221,Point,Wheat,1,593656,3936490
+1222,Point,Wheat,1,593487,3936420
+1223,Point,Wheat,1,593485,3936190
+1224,Point,Wheat,1,593521,3936590
+1225,Point,Wheat,1,593383,3936490
+1226,Point,Wheat,1,593385,3936670
+1227,Point,Wheat,1,593356,3936540
+1228,Point,Other large-scale farming,0,593208,3936590
+1229,Point,Wheat,1,594199,3936330
+1230,Point,Other large-scale farming,0,594210,3936490
+1231,Point,Wheat,1,594282,3936440
+1232,Point,Other large-scale farming,0,593742,3935020
+1233,Point,Wheat,1,594034,3934300
+1234,Point,Wheat,1,594127,3934240
+1235,Point,Wheat,1,594203,3934180
+1236,Point,Wheat,1,594301,3934120
+1237,Point,Perennial crops,2,594691,3933730
+1238,Point,Wheat,1,594863,3933850
+1239,Point,Perennial crops,2,594726,3933230
+1240,Point,Wheat,1,593820,3932050
+1241,Point,Wheat,1,593543,3931980
+1242,Point,Perennial crops,2,593320,3931850
+1243,Point,Wheat,1,593078,3931690
+1244,Point,Perennial crops,2,592879,3931990
+1245,Point,Wheat,1,592367,3931540
+1246,Point,Wheat,1,592406,3931340
+1247,Point,Wheat,1,592255,3931490
+1248,Point,Wheat,1,592162,3931470
+1249,Point,Wheat,1,592087,3931400
+1250,Point,Wheat,1,592141,3931260
+1251,Point,Wheat,1,591538,3930880
+1252,Point,Wheat,1,591267,3930870
+1253,Point,Wheat,1,591347,3930750
+1254,Point,Wheat,1,591037,3930450
+1255,Point,Wheat,1,590941,3930690
+1256,Point,Wheat,1,590800,3930360
+1257,Point,Wheat,1,590577,3930270
+1258,Point,Wheat,1,590563,3930430
+1259,Point,Perennial crops,2,589745,3929970
+1260,Point,Wheat,1,589822,3929800
+1261,Point,Wheat,1,589442,3929770
+1262,Point,Perennial crops,2,589122,3929470
+1263,Point,Wheat,1,589135,3929280
+1264,Point,Wheat,1,588988,3929510
+1265,Point,Wheat,1,588608,3928940
+1266,Point,Perennial crops,2,588241,3928800
+1267,Point,Perennial crops,2,588169,3928760
+1268,Point,Wheat,1,587921,3928510
+1269,Point,Wheat,1,587540,3928490
+1270,Point,Wheat,1,587352,3928370
+1271,Point,Wheat,1,587295,3928300
+1272,Point,Wheat,1,587346,3928090
+1273,Point,Wheat,1,587118,3928070
+1274,Point,Wheat,1,587198,3927830
+1275,Point,Perennial crops,2,586991,3927930
+1276,Point,Wheat,1,586768,3927760
+1277,Point,Wheat,1,586684,3927470
+1278,Point,Wheat,1,586567,3927600
+1279,Point,Wheat,1,585215,3926440
+1280,Point,Wheat,1,585423,3926340
+1281,Point,Wheat,1,585132,3926200
+1282,Point,Perennial crops,2,584888,3926340
+1283,Point,Wheat,1,584003,3925370
+1284,Point,Wheat,1,583055,3924360
+1285,Point,Wheat,1,582372,3924210
+1286,Point,Perennial crops,2,582603,3924320
+1287,Point,Wheat,1,582427,3924050
+1288,Point,Perennial crops,2,582223,3923900
+1289,Point,Wheat,1,581933,3923690
+1290,Point,Wheat,1,581553,3923650
+1291,Point,Perennial crops,2,581858,3923230
+1292,Point,Wheat,1,581151,3923350
+1293,Point,Perennial crops,2,581015,3923120
+1294,Point,Wheat,1,581073,3922660
+1295,Point,Wheat,1,580626,3923050
+1296,Point,Perennial crops,2,580177,3922430
+1297,Point,Perennial crops,2,579486,3921370
+1298,Point,Perennial crops,2,578462,3921880
+1299,Point,Perennial crops,2,575949,3919880
+1300,Point,Perennial crops,2,573541,3919310
+1301,Point,Perennial crops,2,571711,3929000
+1302,Point,Perennial crops,2,571494,3929320
+1303,Point,Perennial crops,2,571459,3929560
+1304,Point,Perennial crops,2,571348,3930640
+1305,Point,Wheat,1,569814,3934340
+1306,Point,Wheat,1,570141,3935070
+1307,Point,Other large-scale farming,0,555374,3923500
+1308,Point,Other large-scale farming,0,551466,3920070
+1309,Point,Perennial crops,2,581002,3913570
+1310,Point,Perennial crops,2,592337,3916680
+1311,Point,Perennial crops,2,591901,3916280
+1312,Point,Wheat,1,593077,3916830
+1313,Point,Wheat,1,593901,3916940
+1314,Point,Perennial crops,2,593621,3916900
+1315,Point,Wheat,1,596079,3918240
+1316,Point,Wheat,1,595882,3918450
+1317,Point,Wheat,1,596144,3919210
+1318,Point,Other large-scale farming,0,596698,3919990
+1319,Point,Wheat,1,596644,3920630
+1320,Point,Perennial crops,2,596888,3920610
+1321,Point,Wheat,1,596604,3920880
+1322,Point,Wheat,1,596467,3922750
+1323,Point,Other large-scale farming,0,596544,3923570
+1324,Point,Perennial crops,2,596398,3923910
+1325,Point,Wheat,1,596377,3924010
+1326,Point,Perennial crops,2,596249,3923930
+1327,Point,Wheat,1,596578,3924990
+1328,Point,Wheat,1,596458,3926480
+1329,Point,Perennial crops,2,596358,3926680
+1330,Point,Wheat,1,596700,3926880
+1331,Point,Wheat,1,596723,3927310
+1332,Point,Wheat,1,596505,3927430
+1333,Point,Wheat,1,596822,3927970
+1334,Point,Wheat,1,596881,3928290
+1335,Point,Wheat,1,596590,3928660
+1336,Point,Wheat,1,597086,3928750
+1337,Point,Wheat,1,597038,3929010
+1338,Point,Wheat,1,596815,3929200
+1339,Point,Perennial crops,2,596935,3929220
+1340,Point,Wheat,1,596566,3930310
+1341,Point,Wheat,1,596517,3930410
+1342,Point,Wheat,1,596820,3931020
+1343,Point,Wheat,1,596795,3931260
+1344,Point,Wheat,1,596741,3931340
+1345,Point,Perennial crops,2,596571,3931480
+1346,Point,Wheat,1,596460,3932080
+1347,Point,Perennial crops,2,596265,3932200
+1348,Point,Perennial crops,2,589352,3929430
+1349,Point,Perennial crops,2,586822,3909390
+1350,Point,Perennial crops,2,586976,3912000
+1351,Point,Perennial crops,2,588015,3912020
+1352,Point,Perennial crops,2,588013,3912760
+1353,Point,Perennial crops,2,587706,3913530
+1354,Point,Perennial crops,2,586739,3913810
+1355,Point,Perennial crops,2,587443,3914280
+1356,Point,Perennial crops,2,587847,3914690
+1357,Point,Perennial crops,2,587085,3915240
+1358,Point,Perennial crops,2,584949,3914390
+1359,Point,Perennial crops,2,583002,3914690
+1360,Point,Perennial crops,2,582064,3913730
+1361,Point,Perennial crops,2,576853,3915620
+1362,Point,Perennial crops,2,576615,3913010
+1363,Point,Perennial crops,2,576759,3912220
+1364,Point,Perennial crops,2,576788,3912010
+1365,Point,Perennial crops,2,581957,3915080
+1366,Point,Perennial crops,2,585088,3915180
+1367,Point,Perennial crops,2,591099,3915510
+1368,Point,Perennial crops,2,592169,3916660
+1369,Point,Perennial crops,2,592361,3916650
+1370,Point,Perennial crops,2,593112,3917140
+1371,Point,Wheat,1,596570,3919830
+1372,Point,Perennial crops,2,596747,3921430
+1373,Point,Other large-scale farming,0,590592,3930220
+1374,Point,Other large-scale farming,0,590783,3930380
+1375,Point,Wheat,1,589625,3929870
+1376,Point,Wheat,1,585173,3926380
+1377,Point,Perennial crops,2,581521,3923070
+1378,Point,Perennial crops,2,580117,3922680
+1379,Point,Perennial crops,2,580192,3922270
+1380,Point,Perennial crops,2,577551,3921200
+1381,Point,Perennial crops,2,578020,3920930
+1382,Point,Perennial crops,2,578104,3919850
+1383,Point,Wheat,1,577313,3918960
+1384,Point,Perennial crops,2,576779,3918990
+1385,Point,Perennial crops,2,576255,3919810
+1386,Point,Perennial crops,2,575642,3919320
+1387,Point,Perennial crops,2,576059,3919340
+1388,Point,Perennial crops,2,575753,3919710
+1389,Point,Perennial crops,2,575534,3919640
+1390,Point,Perennial crops,2,593281,3916830
+1391,Point,Perennial crops,2,590919,3916170
+1392,Point,Perennial crops,2,589296,3915790
+1393,Point,Perennial crops,2,589685,3915010
+1394,Point,Perennial crops,2,589012,3915360
+1395,Point,Perennial crops,2,588997,3914880
+1396,Point,Perennial crops,2,586964,3912940
+1397,Point,Perennial crops,2,586781,3914470
+1398,Point,Perennial crops,2,582940,3913870
+1399,Point,Perennial crops,2,581061,3913650
+1400,Point,Perennial crops,2,576429,3915140
+1401,Point,Perennial crops,2,576167,3920170
+1402,Point,Perennial crops,2,584527,3925410
+1403,Point,Perennial crops,2,593118,3935780
+1404,Point,Wheat,1,592806,3935850
+1405,Point,Other large-scale farming,0,592703,3935870
+1406,Point,Perennial crops,2,594103,3935840
+1407,Point,Perennial crops,2,594648,3936200
+1408,Point,Perennial crops,2,594389,3936230
+1409,Point,Wheat,1,594586,3936310
+1410,Point,Other large-scale farming,0,594828,3936240
+1411,Point,Wheat,1,594806,3936290
+1412,Point,Wheat,1,594700,3936320
+1413,Point,Perennial crops,2,594992,3936070
+1414,Point,Wheat,1,594416,3937160
+1415,Point,Perennial crops,2,592236,3949900
+1416,Point,Wheat,1,592223,3950240
+1417,Point,Wheat,1,592465,3950320
+1418,Point,Wheat,1,592725,3950250
+1419,Point,Wheat,1,592876,3950640
+1420,Point,Wheat,1,592703,3950730
+1421,Point,Wheat,1,592624,3950790
+1422,Point,Wheat,1,592490,3950690
+1423,Point,Wheat,1,592341,3950790
+1424,Point,Wheat,1,593088,3950850
+1425,Point,Perennial crops,2,594771,3950970
+1426,Point,Wheat,1,593872,3952520
+1427,Point,Wheat,1,593457,3952680
+1428,Point,Wheat,1,593816,3952770
+1429,Point,Wheat,1,595243,3953530
+1430,Point,Wheat,1,593948,3953200
+1431,Point,Wheat,1,592382,3953440
+1432,Point,Wheat,1,592131,3953130
+1433,Point,Wheat,1,588961,3958270
+1434,Point,Wheat,1,588765,3958720
+1435,Point,Other large-scale farming,0,591445,3976480
+1436,Point,Perennial crops,2,587513,3980860
+1437,Point,Perennial crops,2,587784,3981100
+1438,Point,Perennial crops,2,587077,3981450
+1439,Point,Perennial crops,2,587242,3981470
+1440,Point,Perennial crops,2,586891,3982020
+1441,Point,Perennial crops,2,586636,3982200
+1442,Point,Perennial crops,2,586059,3982380
+1443,Point,Perennial crops,2,585193,3982900
+1444,Point,Perennial crops,2,584339,3984010
+1445,Point,Perennial crops,2,584549,3984310
+1446,Point,Other large-scale farming,0,594076,3955240
+1447,Point,Other large-scale farming,0,594440,3955430
+1448,Point,Wheat,1,594046,3955630
+1449,Point,Perennial crops,2,594620,3955700
+1450,Point,Perennial crops,2,594739,3955970
+1451,Point,Perennial crops,2,594592,3956150
+1452,Point,Perennial crops,2,594676,3956230
+1453,Point,Perennial crops,2,594583,3956330
+1454,Point,Perennial crops,2,594836,3956330
+1455,Point,Perennial crops,2,594581,3956560
+1456,Point,Perennial crops,2,594333,3956850
+1457,Point,Wheat,1,592809,3954710
+1458,Point,Wheat,1,593911,3953960
+1459,Point,Perennial crops,2,599270,3956180
+1460,Point,Perennial crops,2,599281,3958070
+1461,Point,Perennial crops,2,606786,3967360
+1462,Point,Perennial crops,2,608317,3968950
+1463,Point,Perennial crops,2,576323,3912720
+1464,Point,Perennial crops,2,576582,3912400
+1465,Point,Perennial crops,2,577192,3912820
+1466,Point,Perennial crops,2,576583,3911910
+1467,Point,Perennial crops,2,577116,3912510
+1468,Point,Perennial crops,2,577447,3913860
+1469,Point,Perennial crops,2,596898,3921760
+1470,Point,Wheat,1,593106,3953290
+1471,Point,Wheat,1,593162,3953800
+1472,Point,Perennial crops,2,595258,3955920
+1473,Point,Other large-scale farming,0,594239,3936220
+1474,Point,Other large-scale farming,0,591069,3933860
+1475,Point,Natural vegetation,3,599787,3991440
+1476,Point,Other large-scale farming,0,593161,3944030
+1477,Point,Natural vegetation,3,569282,3980730
+1478,Point,Natural vegetation,3,553257,3939070
+1479,Point,Natural vegetation,3,554689,3983880
+1480,Point,Natural vegetation,3,600355,3977310
+1481,Point,Natural vegetation,3,589685,3901860
+1482,Point,Natural vegetation,3,547403,3972400
+1483,Point,Natural vegetation,3,589169,3910360
+1484,Point,Natural vegetation,3,552618,3917270
+1485,Point,Other large-scale farming,0,598634,3980070
+1486,Point,Natural vegetation,3,610613,3945420
+1487,Point,Natural vegetation,3,555180,3981980
+1488,Point,Natural vegetation,3,607507,3986480
+1489,Point,Other large-scale farming,0,601215,3939690
+1490,Point,Other large-scale farming,0,584456,3928500
+1491,Point,Other large-scale farming,0,582140,3917430
+1492,Point,Other large-scale farming,0,591195,3955220
+1493,Point,Other large-scale farming,0,585203,3924670
+1494,Point,Natural vegetation,3,540334,3946680
+1495,Point,Other large-scale farming,0,597410,3951390
+1496,Point,Other large-scale farming,0,590772,3913410
+1497,Point,Other large-scale farming,0,600156,3983680
+1498,Point,Other large-scale farming,0,591569,3923820
+1499,Point,Natural vegetation,3,552493,3938830
+1500,Point,Natural vegetation,3,575655,3994670
+1501,Point,Other large-scale farming,0,604728,3937070
+1502,Point,Natural vegetation,3,599631,3993650
+1503,Point,Natural vegetation,3,540097,3949550
+1504,Point,Natural vegetation,3,557563,3934720
+1505,Point,Natural vegetation,3,563401,3909420
+1506,Point,Natural vegetation,3,544670,3943290
+1507,Point,Other large-scale farming,0,594510,3979040
+1508,Point,Other large-scale farming,0,592585,3923980
+1509,Point,Natural vegetation,3,594325,3971060
+1510,Point,Other large-scale farming,0,589011,3920960
+1511,Point,Other large-scale farming,0,579527,3955320
+1512,Point,Natural vegetation,3,569437,3913780
+1513,Point,Other large-scale farming,0,596582,3993090
+1514,Point,Other large-scale farming,0,599177,3979200
+1515,Point,Other large-scale farming,0,600272,3931760
+1516,Point,Other large-scale farming,0,593500,3954550
+1517,Point,Other large-scale farming,0,589930,3946420
+1518,Point,Other large-scale farming,0,604737,3937500
+1519,Point,Other large-scale farming,0,581035,3924710
+1520,Point,Other large-scale farming,0,595778,3942770
+1521,Point,Natural vegetation,3,537578,3947290
+1522,Point,Natural vegetation,3,606128,3951640
+1523,Point,Natural vegetation,3,565313,3936730
+1524,Point,Natural vegetation,3,564135,3992640
+1525,Point,Other large-scale farming,0,596194,3925610
+1526,Point,Natural vegetation,3,543984,3945220
+1527,Point,Other large-scale farming,0,598955,3982340
+1528,Point,Natural vegetation,3,540806,3936150
+1529,Point,Other large-scale farming,0,594688,3935960
+1530,Point,Natural vegetation,3,557855,3966020
+1531,Point,Other large-scale farming,0,595408,3944790
+1532,Point,Other large-scale farming,0,581019,3940890
+1533,Point,Natural vegetation,3,563999,3980980
+1534,Point,Natural vegetation,3,606889,4001780
+1535,Point,Natural vegetation,3,590109,3979470
+1536,Point,Natural vegetation,3,553511,3945870
+1537,Point,Natural vegetation,3,576086,3921790
+1538,Point,Natural vegetation,3,564588,3944730
+1539,Point,Natural vegetation,3,562827,3921030
+1540,Point,Natural vegetation,3,531940,3947930
+1541,Point,Natural vegetation,3,598561,3911160
+1542,Point,Natural vegetation,3,605573,3957080
+1543,Point,Natural vegetation,3,585736,3986750
+1544,Point,Other large-scale farming,0,583213,3951790
+1545,Point,Other large-scale farming,0,593765,3957470
+1546,Point,Other large-scale farming,0,589352,3925520
+1547,Point,Other large-scale farming,0,574168,3937390
+1548,Point,Natural vegetation,3,607389,3980150
+1549,Point,Natural vegetation,3,562512,3903010
+1550,Point,Other large-scale farming,0,593324,3923090
+1551,Point,Natural vegetation,3,569241,3917950
+1552,Point,Natural vegetation,3,581551,3910460
+1553,Point,Natural vegetation,3,562985,3988210
+1554,Point,Natural vegetation,3,555758,3926540
+1555,Point,Natural vegetation,3,601784,3991690
+1556,Point,Other large-scale farming,0,580474,3934180
+1557,Point,Other large-scale farming,0,583691,3918720
+1558,Point,Natural vegetation,3,572679,3959160
+1559,Point,Natural vegetation,3,552164,3978210
+1560,Point,Other large-scale farming,0,591898,3919890
+1561,Point,Natural vegetation,3,554082,3982880
+1562,Point,Natural vegetation,3,578856,3926090
+1563,Point,Other large-scale farming,0,600513,3944670
+1564,Point,Other large-scale farming,0,587885,3927650
+1565,Point,Other large-scale farming,0,593082,3971540
+1566,Point,Other large-scale farming,0,594527,3945280
+1567,Point,Other large-scale farming,0,587346,3934410
+1568,Point,Other large-scale farming,0,595108,3926670
+1569,Point,Other large-scale farming,0,584429,3922860
+1570,Point,Other large-scale farming,0,607676,3958420
+1571,Point,Other large-scale farming,0,580912,3937090
+1572,Point,Other large-scale farming,0,578790,3978210
+1573,Point,Other large-scale farming,0,606495,3985300
+1574,Point,Other large-scale farming,0,545784,3911880
+1575,Point,Other large-scale farming,0,583729,3931820
+1576,Point,Other large-scale farming,0,590778,3920240
+1577,Point,Natural vegetation,3,608282,3979890
+1578,Point,Natural vegetation,3,537714,3948550
+1579,Point,Natural vegetation,3,600446,3965130
+1580,Point,Natural vegetation,3,600899,3984410
+1581,Point,Other large-scale farming,0,588522,3918440
+1582,Point,Natural vegetation,3,567874,3966180
+1583,Point,Other large-scale farming,0,610379,3985410
+1584,Point,Natural vegetation,3,607817,3956600
+1585,Point,Other large-scale farming,0,583965,3910240
+1586,Point,Natural vegetation,3,599940,3964860
+1587,Point,Other large-scale farming,0,594204,3937750
+1588,Point,Natural vegetation,3,567814,3975350
+1589,Point,Natural vegetation,3,574146,3947980
+1590,Point,Other large-scale farming,0,592735,3924920
+1591,Point,Natural vegetation,3,545052,3974880
+1592,Point,Natural vegetation,3,562156,3911620
+1593,Point,Natural vegetation,3,551495,3978860
+1594,Point,Natural vegetation,3,558470,3987010
+1595,Point,Other large-scale farming,0,599773,3934360
+1596,Point,Other large-scale farming,0,599001,3935110
+1597,Point,Other large-scale farming,0,587484,3923090
+1598,Point,Natural vegetation,3,607059,3944760
+1599,Point,Natural vegetation,3,608650,3976860
+1600,Point,Natural vegetation,3,571686,3902410
+1601,Point,Other large-scale farming,0,583019,3935700
+1602,Point,Other large-scale farming,0,590590,3957630
+1603,Point,Other large-scale farming,0,587646,3930020
+1604,Point,Other large-scale farming,0,609330,3986570
+1605,Point,Other large-scale farming,0,590971,3945770
+1606,Point,Other large-scale farming,0,585583,3939210
+1607,Point,Natural vegetation,3,572928,3972690
+1608,Point,Other large-scale farming,0,599105,3943060
+1609,Point,Natural vegetation,3,565845,3944770
+1610,Point,Natural vegetation,3,610592,3946590
+1611,Point,Natural vegetation,3,561220,3951000
+1612,Point,Natural vegetation,3,577738,3992250
+1613,Point,Natural vegetation,3,567954,3909600
+1614,Point,Natural vegetation,3,553698,3981180
+1615,Point,Natural vegetation,3,584822,3910360
+1616,Point,Natural vegetation,3,561444,3969510
+1617,Point,Natural vegetation,3,556758,3983270
+1618,Point,Natural vegetation,3,601073,3965470
+1619,Point,Natural vegetation,3,558902,3934840
+1620,Point,Natural vegetation,3,551264,3978510
+1621,Point,Natural vegetation,3,566174,3936890
+1622,Point,Natural vegetation,3,562409,3943740
+1623,Point,Natural vegetation,3,532082,3951700
+1624,Point,Natural vegetation,3,608019,3977710
+1625,Point,Natural vegetation,3,560824,3989590
+1626,Point,Natural vegetation,3,587013,3987720
+1627,Point,Natural vegetation,3,596530,3925100
+1628,Point,Natural vegetation,3,568245,3988120
+1629,Point,Natural vegetation,3,562476,3899340
+1630,Point,Natural vegetation,3,608746,3986680
+1631,Point,Natural vegetation,3,536273,3943510
+1632,Point,Natural vegetation,3,549112,3910370
+1633,Point,Natural vegetation,3,599570,3993800
+1634,Point,Natural vegetation,3,533585,3944290
+1635,Point,Natural vegetation,3,608477,3978210
+1636,Point,Natural vegetation,3,555608,3954700
+1637,Point,Natural vegetation,3,608651,3981460
+1638,Point,Natural vegetation,3,576999,3992320
+1639,Point,Other large-scale farming,0,580356,3956550
+1640,Point,Natural vegetation,3,605467,3894390
+1641,Point,Natural vegetation,3,596891,3900010
+1642,Point,Other large-scale farming,0,584537,3938640
+1643,Point,Natural vegetation,3,603886,3895140
+1644,Point,Natural vegetation,3,568498,3958400
+1645,Point,Natural vegetation,3,569139,3966770
+1646,Point,Natural vegetation,3,585729,3984010
+1647,Point,Other large-scale farming,0,596250,3945830
+1648,Point,Natural vegetation,3,558313,3940930
+1649,Point,Other large-scale farming,0,588008,3936080
+1650,Point,Other large-scale farming,0,601818,3977640
+1651,Point,Other large-scale farming,0,592430,3931530
+1652,Point,Other large-scale farming,0,595884,3948120
+1653,Point,Natural vegetation,3,596349,3901830
+1654,Point,Natural vegetation,3,560177,3964770
+1655,Point,Natural vegetation,3,597955,3913660
+1656,Point,Natural vegetation,3,548638,3915890
+1657,Point,Natural vegetation,3,549516,3977620
+1658,Point,Other large-scale farming,0,546537,3912190
+1659,Point,Natural vegetation,3,545353,3954170
+1660,Point,Natural vegetation,3,552332,3980220
+1661,Point,Other large-scale farming,0,591101,3929880
+1662,Point,Natural vegetation,3,571403,3972960
+1663,Point,Natural vegetation,3,564428,3963570
+1664,Point,Other large-scale farming,0,591011,3943650
+1665,Point,Natural vegetation,3,546088,3910760
+1666,Point,Natural vegetation,3,583098,3977270
+1667,Point,Other large-scale farming,0,585833,3922680
+1668,Point,Natural vegetation,3,549494,3946430
+1669,Point,Natural vegetation,3,567172,3956440
+1670,Point,Natural vegetation,3,534281,3949350
+1671,Point,Natural vegetation,3,558255,3985600
+1672,Point,Natural vegetation,3,542482,3941830
+1673,Point,Other large-scale farming,0,592124,3924360
+1674,Point,Natural vegetation,3,570625,3940150
+1675,Point,Natural vegetation,3,561711,3975010
+1676,Point,Natural vegetation,3,571101,3978230
+1677,Point,Natural vegetation,3,565091,3919640
+1678,Point,Natural vegetation,3,596733,3944610
+1679,Point,Other large-scale farming,0,584957,3928660
+1680,Point,Natural vegetation,3,595012,3965370
+1681,Point,Natural vegetation,3,561434,3931870
+1682,Point,Other large-scale farming,0,589784,3921930
+1683,Point,Natural vegetation,3,604673,3957780
+1684,Point,Natural vegetation,3,530840,3947470
+1685,Point,Natural vegetation,3,594355,3973650
+1686,Point,Natural vegetation,3,537031,3944210
+1687,Point,Natural vegetation,3,575143,3985720
+1688,Point,Other large-scale farming,0,582480,3933530
+1689,Point,Other large-scale farming,0,587989,3944330
+1690,Point,Natural vegetation,3,531475,3948590
+1691,Point,Other large-scale farming,0,590839,3927080
+1692,Point,Natural vegetation,3,560857,3968500
+1693,Point,Natural vegetation,3,537618,3940420
+1694,Point,Natural vegetation,3,545842,3934040
+1695,Point,Natural vegetation,3,553643,3927260
+1696,Point,Natural vegetation,3,552925,3947070
+1697,Point,Natural vegetation,3,569359,3988070
+1698,Point,Natural vegetation,3,598840,3951610
+1699,Point,Natural vegetation,3,536672,3949640
+1700,Point,Natural vegetation,3,555455,3984650
+1701,Point,Natural vegetation,3,581791,3935440
+1702,Point,Natural vegetation,3,552508,3959450
+1703,Point,Natural vegetation,3,569643,3960420
+1704,Point,Natural vegetation,3,571248,3982120
+1705,Point,Natural vegetation,3,572891,3984530
+1706,Point,Natural vegetation,3,604662,3984680
+1707,Point,Natural vegetation,3,599085,3944430
+1708,Point,Natural vegetation,3,576714,3926950
+1709,Point,Other large-scale farming,0,594256,3935520
+1710,Point,Natural vegetation,3,571195,3976620
+1711,Point,Natural vegetation,3,563062,3910310
+1712,Point,Other large-scale farming,0,597011,3993350
+1713,Point,Natural vegetation,3,601198,3994880
+1714,Point,Other large-scale farming,0,576173,3938050
+1715,Point,Natural vegetation,3,580731,3901860
+1716,Point,Other large-scale farming,0,594265,3930990
+1717,Point,Other large-scale farming,0,591831,3956910
+1718,Point,Natural vegetation,3,560737,3956290
+1719,Point,Natural vegetation,3,551331,3918030
+1720,Point,Other large-scale farming,0,602203,3987720
+1721,Point,Natural vegetation,3,560067,3962940
+1722,Point,Other large-scale farming,0,572789,3904410
+1723,Point,Other large-scale farming,0,596054,3948880
+1724,Point,Natural vegetation,3,569625,3984010
+1725,Point,Natural vegetation,3,539088,3933100
+1726,Point,Natural vegetation,3,585512,3899500
+1727,Point,Natural vegetation,3,608141,3976150
+1728,Point,Natural vegetation,3,563669,3905620
+1729,Point,Natural vegetation,3,545446,3947960
+1730,Point,Natural vegetation,3,548635,3977060
+1731,Point,Natural vegetation,3,579558,3891840
+1732,Point,Other large-scale farming,0,594935,3925410
+1733,Point,Natural vegetation,3,595544,3975790
+1734,Point,Natural vegetation,3,547552,3973120
+1735,Point,Natural vegetation,3,543374,3915150
+1736,Point,Other large-scale farming,0,577885,3937190
+1737,Point,Natural vegetation,3,605438,3910970
+1738,Point,Other large-scale farming,0,588984,3934310
+1739,Point,Natural vegetation,3,606540,3973710
+1740,Point,Natural vegetation,3,548370,3930120
+1741,Point,Other large-scale farming,0,595740,3923850
+1742,Point,Natural vegetation,3,604882,3931520
+1743,Point,Natural vegetation,3,591555,3979390
+1744,Point,Natural vegetation,3,586480,3963150
+1745,Point,Natural vegetation,3,596577,3904460
+1746,Point,Other large-scale farming,0,607111,3930390
+1747,Point,Natural vegetation,3,545994,3927080
+1748,Point,Other large-scale farming,0,589339,3927160
+1749,Point,Other large-scale farming,0,594870,3925120
+1750,Point,Other large-scale farming,0,602811,3986590
+1751,Point,Other large-scale farming,0,571113,3904090
+1752,Point,Other large-scale farming,0,586631,3927320
+1753,Point,Natural vegetation,3,565912,3993320
+1754,Point,Natural vegetation,3,601126,3923210
+1755,Point,Natural vegetation,3,557347,3958390
+1756,Point,Natural vegetation,3,607382,3894430
+1757,Point,Natural vegetation,3,553387,3932190
+1758,Point,Natural vegetation,3,533056,3944470
+1759,Point,Natural vegetation,3,563960,3958740
+1760,Point,Natural vegetation,3,552835,3911610
+1761,Point,Natural vegetation,3,548486,3955250
+1762,Point,Other large-scale farming,0,583050,3923430
+1763,Point,Natural vegetation,3,548681,3974360
+1764,Point,Natural vegetation,3,600987,3957160
+1765,Point,Other large-scale farming,0,593355,3937430
+1766,Point,Other large-scale farming,0,587288,3966370
+1767,Point,Natural vegetation,3,599253,3968930
+1768,Point,Natural vegetation,3,542833,3915050
+1769,Point,Natural vegetation,3,587735,3938180
+1770,Point,Natural vegetation,3,602471,3955230
+1771,Point,Other large-scale farming,0,593297,3933850
+1772,Point,Other large-scale farming,0,595095,3926660
+1773,Point,Natural vegetation,3,611587,3931560
+1774,Point,Other large-scale farming,0,570869,3987320
+1775,Point,Other large-scale farming,0,598000,3942010
+1776,Point,Natural vegetation,3,601768,3961950
+1777,Point,Natural vegetation,3,565760,3946030
+1778,Point,Other large-scale farming,0,591523,3918090
+1779,Point,Natural vegetation,3,550981,3945520
+1780,Point,Other large-scale farming,0,584118,3954430
+1781,Point,Other large-scale farming,0,585273,3929740
+1782,Point,Natural vegetation,3,600003,3965210
+1783,Point,Natural vegetation,3,537253,3943490
+1784,Point,Natural vegetation,3,569557,3974280
+1785,Point,Natural vegetation,3,555138,3975010
+1786,Point,Natural vegetation,3,552031,3942240
+1787,Point,Other large-scale farming,0,595573,3924200
+1788,Point,Other large-scale farming,0,583055,3915090
+1789,Point,Other large-scale farming,0,593238,3923270
+1790,Point,Natural vegetation,3,601238,3961670
+1791,Point,Natural vegetation,3,604656,3975540
+1792,Point,Natural vegetation,3,589986,3975480
+1793,Point,Other large-scale farming,0,588061,3918780
+1794,Point,Other large-scale farming,0,597684,3993640
+1795,Point,Other large-scale farming,0,585529,3928300
+1796,Point,Natural vegetation,3,544689,3947350
+1797,Point,Other large-scale farming,0,592044,3933570
+1798,Point,Natural vegetation,3,574032,3925440
+1799,Point,Natural vegetation,3,554620,3936130
+1800,Point,Natural vegetation,3,596124,3965550
+1801,Point,Natural vegetation,3,606789,3957500
+1802,Point,Other large-scale farming,0,594628,3932250
+1803,Point,Other large-scale farming,0,579731,3940080
+1804,Point,Natural vegetation,3,546745,3951100
+1805,Point,Other large-scale farming,0,600278,3958990
+1806,Point,Natural vegetation,3,574106,3943790
+1807,Point,Other large-scale farming,0,592512,3929000
+1808,Point,Other large-scale farming,0,585870,3920860
+1809,Point,Natural vegetation,3,595721,3955410
+1810,Point,Other large-scale farming,0,580983,3924210
+1811,Point,Natural vegetation,3,575214,3924300
+1812,Point,Other large-scale farming,0,593922,3923980
+1813,Point,Natural vegetation,3,591080,3931960
+1814,Point,Other large-scale farming,0,584654,3942670
+1815,Point,Other large-scale farming,0,600393,3986350
+1816,Point,Other large-scale farming,0,592031,3934670
+1817,Point,Other large-scale farming,0,591396,3937280
+1818,Point,Natural vegetation,3,584755,3938830
+1819,Point,Natural vegetation,3,608978,3957510
+1820,Point,Natural vegetation,3,548138,3952640
+1821,Point,Natural vegetation,3,603501,3976760
+1822,Point,Natural vegetation,3,567665,3963820
+1823,Point,Natural vegetation,3,549302,3978260
+1824,Point,Natural vegetation,3,545954,3945530
+1825,Point,Natural vegetation,3,570523,3975100
+1826,Point,Natural vegetation,3,576659,3944800
+1827,Point,Natural vegetation,3,562625,3974260
+1828,Point,Natural vegetation,3,562575,3903760
+1829,Point,Natural vegetation,3,609267,3936100
+1830,Point,Natural vegetation,3,607953,3987960
+1831,Point,Natural vegetation,3,598215,3895420
+1832,Point,Natural vegetation,3,597243,3926110
+1833,Point,Natural vegetation,3,550616,3963330
+1834,Point,Other large-scale farming,0,591400,3932890
+1835,Point,Other large-scale farming,0,599607,3987650
+1836,Point,Other large-scale farming,0,546332,3917370
+1837,Point,Other large-scale farming,0,598568,3983420
+1838,Point,Other large-scale farming,0,601499,3981380
+1839,Point,Other large-scale farming,0,587198,3923590
+1840,Point,Other large-scale farming,0,589481,3962190
+1841,Point,Other large-scale farming,0,580813,3937040
+1842,Point,Other large-scale farming,0,589711,3916210
+1843,Point,Other large-scale farming,0,590215,3931290
+1844,Point,Other large-scale farming,0,590154,3926830
+1845,Point,Other large-scale farming,0,593596,3914860
+1846,Point,Other large-scale farming,0,592968,3926680
+1847,Point,Other large-scale farming,0,598347,3944640
+1848,Point,Other large-scale farming,0,611780,3945330
+1849,Point,Other large-scale farming,0,579586,3952670
+1850,Point,Natural vegetation,3,565343,3954050
+1851,Point,Natural vegetation,3,547525,3961320
+1852,Point,Other large-scale farming,0,588207,3913900
+1853,Point,Other large-scale farming,0,592851,3934330
+1854,Point,Natural vegetation,3,543335,3928610
+1855,Point,Natural vegetation,3,543142,3948700
+1856,Point,Natural vegetation,3,545900,3953460
+1857,Point,Natural vegetation,3,537236,3945410
+1858,Point,Natural vegetation,3,544200,3974480
+1859,Point,Natural vegetation,3,543562,3916270
+1860,Point,Natural vegetation,3,540162,3948910
+1861,Point,Other large-scale farming,0,590384,3920830
+1862,Point,Other large-scale farming,0,597865,3931820
+1863,Point,Other large-scale farming,0,583750,3926430
+1864,Point,Natural vegetation,3,572612,3993740
+1865,Point,Other large-scale farming,0,595649,3930660
+1866,Point,Natural vegetation,3,559887,3986050
+1867,Point,Other large-scale farming,0,603975,3985480
+1868,Point,Other large-scale farming,0,590018,3953870
+1869,Point,Natural vegetation,3,557640,3930050
+1870,Point,Natural vegetation,3,554629,3954920
+1871,Point,Natural vegetation,3,544156,3917530
+1872,Point,Natural vegetation,3,603899,3897980
+1873,Point,Other large-scale farming,0,584232,3925860
+1874,Point,Other large-scale farming,0,592485,3956120
+1875,Point,Other large-scale farming,0,592173,3933840
+1876,Point,Natural vegetation,3,604909,3981520
+1877,Point,Natural vegetation,3,585982,3903700
+1878,Point,Natural vegetation,3,609758,3980630
+1879,Point,Natural vegetation,3,599382,3885610
+1880,Point,Other large-scale farming,0,592502,3934620
+1881,Point,Natural vegetation,3,566114,3951870
+1882,Point,Natural vegetation,3,607227,3950680
+1883,Point,Natural vegetation,3,543950,3913180
+1884,Point,Natural vegetation,3,595346,3962470
+1885,Point,Natural vegetation,3,607952,3935810
+1886,Point,Natural vegetation,3,568733,3969880
+1887,Point,Natural vegetation,3,580210,3907610
+1888,Point,Natural vegetation,3,552866,3976100
+1889,Point,Other large-scale farming,0,593319,3928500
+1890,Point,Natural vegetation,3,592686,3893230
+1891,Point,Other large-scale farming,0,604983,3976310
+1892,Point,Natural vegetation,3,552509,3981290
+1893,Point,Other large-scale farming,0,600749,3939800
+1894,Point,Natural vegetation,3,564387,3991570
+1895,Point,Other large-scale farming,0,589440,3922230
+1896,Point,Other large-scale farming,0,587438,3935030
+1897,Point,Other large-scale farming,0,574885,3935890
+1898,Point,Natural vegetation,3,559987,3987700
+1899,Point,Other large-scale farming,0,604050,3985380
+1900,Point,Other large-scale farming,0,594502,3978810
+1901,Point,Other large-scale farming,0,601636,3947560
+1902,Point,Natural vegetation,3,547848,3915890
+1903,Point,Other large-scale farming,0,596638,3936440
+1904,Point,Other large-scale farming,0,592326,3928760
+1905,Point,Other large-scale farming,0,603646,3982100
+1906,Point,Other large-scale farming,0,598248,3919890
+1907,Point,Other large-scale farming,0,580970,3904120
+1908,Point,Other large-scale farming,0,583325,3917310
+1909,Point,Natural vegetation,3,545385,3914000
+1910,Point,Natural vegetation,3,567351,3952300
+1911,Point,Other large-scale farming,0,586738,3921240
+1912,Point,Other large-scale farming,0,591419,3957690
+1913,Point,Natural vegetation,3,551090,3978930
+1914,Point,Other large-scale farming,0,601513,3973290
+1915,Point,Other large-scale farming,0,594915,3921730
+1916,Point,Other large-scale farming,0,591175,3934860
+1917,Point,Other large-scale farming,0,605871,3975810
+1918,Point,Other large-scale farming,0,585948,3936570
+1919,Point,Other large-scale farming,0,583347,3952230
+1920,Point,Natural vegetation,3,601996,3999060
+1921,Point,Natural vegetation,3,585355,3938400
+1922,Point,Other large-scale farming,0,608844,3988020
+1923,Point,Other large-scale farming,0,588118,3921310
+1924,Point,Other large-scale farming,0,589583,3918930
+1925,Point,Other large-scale farming,0,591614,3925990
+1926,Point,Other large-scale farming,0,591001,3947070
+1927,Point,Other large-scale farming,0,591207,3952500
+1928,Point,Other large-scale farming,0,582017,3954370
+1929,Point,Other large-scale farming,0,590150,3924770
+1930,Point,Natural vegetation,3,596629,3902880
+1931,Point,Other large-scale farming,0,596676,3970710
+1932,Point,Natural vegetation,3,568658,3987520
+1933,Point,Natural vegetation,3,567250,3949450
+1934,Point,Other large-scale farming,0,603174,3991270
+1935,Point,Other large-scale farming,0,583627,3937570
+1936,Point,Other large-scale farming,0,592632,3950330
+1937,Point,Other large-scale farming,0,587434,3944460
+1938,Point,Natural vegetation,3,571914,3978400
+1939,Point,Other large-scale farming,0,593584,3919740
+1940,Point,Natural vegetation,3,563126,3915770
+1941,Point,Other large-scale farming,0,541579,3914930
+1942,Point,Other large-scale farming,0,588506,3945370
+1943,Point,Natural vegetation,3,562953,3958380
+1944,Point,Natural vegetation,3,561302,3937810
+1945,Point,Natural vegetation,3,547212,3959750
+1946,Point,Natural vegetation,3,556998,3984990
+1947,Point,Natural vegetation,3,555979,3984590
+1948,Point,Natural vegetation,3,565131,3955120
+1949,Point,Natural vegetation,3,556282,3957190
+1950,Point,Natural vegetation,3,553538,3980330
+1951,Point,Natural vegetation,3,566850,3932280
+1952,Point,Natural vegetation,3,601188,3955930
+1953,Point,Natural vegetation,3,562696,3960570
+1954,Point,Natural vegetation,3,560294,3977430
+1955,Point,Natural vegetation,3,573591,3981070
+1956,Point,Natural vegetation,3,571924,3975910
+1957,Point,Natural vegetation,3,567338,3973400
+1958,Point,Natural vegetation,3,570519,3990720
+1959,Point,Natural vegetation,3,545149,3947470
+1960,Point,Natural vegetation,3,591611,3972410
+1961,Point,Natural vegetation,3,588373,3910790
+1962,Point,Natural vegetation,3,538022,3947860
+1963,Point,Natural vegetation,3,550276,3977710
+1964,Point,Natural vegetation,3,546721,3913460
+1965,Point,Natural vegetation,3,570336,3930370
+1966,Point,Natural vegetation,3,604143,3899890
+1967,Point,Natural vegetation,3,549349,3916110
+1968,Point,Natural vegetation,3,605055,3974890
+1969,Point,Other large-scale farming,0,594082,3942740
+1970,Point,Natural vegetation,3,547530,3945060
+1971,Point,Natural vegetation,3,542488,3939980
+1972,Point,Natural vegetation,3,553211,3981400
+1973,Point,Other large-scale farming,0,590476,3964180
+1974,Point,Other large-scale farming,0,597709,3928350
+1975,Point,Other large-scale farming,0,594222,3927930
+1976,Point,Natural vegetation,3,552528,3934150
+1977,Point,Natural vegetation,3,536890,3942150
+1978,Point,Natural vegetation,3,563112,3956400
+1979,Point,Other large-scale farming,0,592223,3934120
+1980,Point,Other large-scale farming,0,592587,3930000
+1981,Point,Other large-scale farming,0,600547,3932760
+1982,Point,Other large-scale farming,0,588023,3927340
+1983,Point,Other large-scale farming,0,595783,3922080
+1984,Point,Natural vegetation,3,553027,3945860
+1985,Point,Other large-scale farming,0,599998,3933670
+1986,Point,Natural vegetation,3,545433,3951090
+1987,Point,Other large-scale farming,0,593301,3942910
+1988,Point,Natural vegetation,3,545408,3936220
+1989,Point,Other large-scale farming,0,588192,3928070
+1990,Point,Natural vegetation,3,549920,3962170
+1991,Point,Natural vegetation,3,557413,3966750
+1992,Point,Natural vegetation,3,572598,3989130
+1993,Point,Other large-scale farming,0,586745,3925380
+1994,Point,Natural vegetation,3,568263,3956730
+1995,Point,Other large-scale farming,0,598136,3931900
+1996,Point,Natural vegetation,3,552141,3906600
+1997,Point,Natural vegetation,3,607562,3946360
+1998,Point,Natural vegetation,3,567108,3989560
+1999,Point,Other large-scale farming,0,585288,3910520
+2000,Point,Other large-scale farming,0,596109,3948630
+2001,Point,Natural vegetation,3,610867,3989230
+2002,Point,Other large-scale farming,0,598884,3931220
+2003,Point,Natural vegetation,3,556463,3986340
+2004,Point,Other large-scale farming,0,592608,3935410
+2005,Point,Other large-scale farming,0,585569,3919720
+2006,Point,Other large-scale farming,0,585123,3922300
+2007,Point,Natural vegetation,3,526492,3950900
+2008,Point,Natural vegetation,3,553466,3976920
+2009,Point,Natural vegetation,3,542608,3944110
+2010,Point,Natural vegetation,3,555249,3929230
+2011,Point,Natural vegetation,3,566941,3970260
+2012,Point,Natural vegetation,3,560526,3988940
+2013,Point,Natural vegetation,3,546141,3915940
+2014,Point,Natural vegetation,3,547077,3941740
+2015,Point,Natural vegetation,3,574415,3983610
+2016,Point,Natural vegetation,3,554991,3966760
+2017,Point,Natural vegetation,3,600951,3888490
+2018,Point,Natural vegetation,3,571772,3987720
+2019,Point,Natural vegetation,3,545487,3922500
+2020,Point,Natural vegetation,3,581239,3903490
+2021,Point,Natural vegetation,3,588888,3904240
+2022,Point,Natural vegetation,3,558640,3941350
+2023,Point,Natural vegetation,3,593521,3943020
+2024,Point,Natural vegetation,3,553965,3978300
+2025,Point,Natural vegetation,3,593791,3904000
+2026,Point,Other large-scale farming,0,552692,3976040
+2027,Point,Natural vegetation,3,545081,3942760
+2028,Point,Natural vegetation,3,609615,3928230
+2029,Point,Other large-scale farming,0,588127,3945830
+2030,Point,Natural vegetation,3,557273,3979630
+2031,Point,Other large-scale farming,0,574346,3920160
+2032,Point,Natural vegetation,3,594972,3982030
+2033,Point,Natural vegetation,3,555715,3959060
+2034,Point,Natural vegetation,3,601563,3896990
+2035,Point,Other large-scale farming,0,569173,3989290
+2036,Point,Other large-scale farming,0,592409,3931520
+2037,Point,Other large-scale farming,0,580450,3922000
+2038,Point,Other large-scale farming,0,588284,3927040
+2039,Point,Other large-scale farming,0,592220,3952620
+2040,Point,Other large-scale farming,0,591155,3921180
+2041,Point,Other large-scale farming,0,595828,3972020
+2042,Point,Other large-scale farming,0,585385,3933620
+2043,Point,Other large-scale farming,0,587540,3927180
+2044,Point,Other large-scale farming,0,594064,3935820
+2045,Point,Other large-scale farming,0,581599,3924340
+2046,Point,Natural vegetation,3,576668,3895040
+2047,Point,Natural vegetation,3,565530,3990360
+2048,Point,Other large-scale farming,0,581861,3951720
+2049,Point,Other large-scale farming,0,595485,3952920
+2050,Point,Natural vegetation,3,544439,3954230
+2051,Point,Natural vegetation,3,585070,3909530
+2052,Point,Natural vegetation,3,551698,3952400
+2053,Point,Natural vegetation,3,571156,3977540
+2054,Point,Other large-scale farming,0,594488,3979070
+2055,Point,Natural vegetation,3,545162,3975660
+2056,Point,Natural vegetation,3,544126,3973860
+2057,Point,Other large-scale farming,0,600633,3994030
+2058,Point,Natural vegetation,3,570981,3974650
+2059,Point,Other large-scale farming,0,603637,3988730
+2060,Point,Natural vegetation,3,533877,3949530
+2061,Point,Natural vegetation,3,552640,3906440
+2062,Point,Natural vegetation,3,567745,3970410
+2063,Point,Natural vegetation,3,563982,3920260
+2064,Point,Natural vegetation,3,564618,3991370
+2065,Point,Natural vegetation,3,590668,3980890
+2066,Point,Natural vegetation,3,545785,3954210
+2067,Point,Natural vegetation,3,546198,3934830
+2068,Point,Natural vegetation,3,553242,3927160
+2069,Point,Other large-scale farming,0,598633,3981840
+2070,Point,Natural vegetation,3,566507,3948920
+2071,Point,Natural vegetation,3,571347,3909940
+2072,Point,Natural vegetation,3,568143,3993060
+2073,Point,Other large-scale farming,0,593826,3938890
+2074,Point,Natural vegetation,3,564004,3962260
+2075,Point,Other large-scale farming,0,586743,3943910
+2076,Point,Other large-scale farming,0,591244,3931030
+2077,Point,Other large-scale farming,0,594474,3939900
+2078,Point,Other large-scale farming,0,586926,3950700
+2079,Point,Natural vegetation,3,556207,3984580
+2080,Point,Natural vegetation,3,564203,3970830
+2081,Point,Other large-scale farming,0,600852,3934260
+2082,Point,Natural vegetation,3,563845,3962550
+2083,Point,Natural vegetation,3,571628,3971900
+2084,Point,Other large-scale farming,0,588116,3921320
+2085,Point,Other large-scale farming,0,607251,3958530
+2086,Point,Natural vegetation,3,547822,3977010
+2087,Point,Natural vegetation,3,552219,3978350
+2088,Point,Natural vegetation,3,557514,3935000
+2089,Point,Natural vegetation,3,570913,3974710
+2090,Point,Other large-scale farming,0,582373,3952620
+2091,Point,Natural vegetation,3,533084,3947480
+2092,Point,Natural vegetation,3,604578,3899340
+2093,Point,Other large-scale farming,0,593767,3925930
+2094,Point,Other large-scale farming,0,590793,3929190
+2095,Point,Natural vegetation,3,591389,3965560
+2096,Point,Natural vegetation,3,604693,3983700
+2097,Point,Other large-scale farming,0,587326,3921350
+2098,Point,Other large-scale farming,0,547785,3914760
+2099,Point,Natural vegetation,3,545739,3961670
+2100,Point,Other large-scale farming,0,601303,3988130
+2101,Point,Natural vegetation,3,577286,3897390
+2102,Point,Other large-scale farming,0,592478,3925800
+2103,Point,Natural vegetation,3,543334,3948340
+2104,Point,Natural vegetation,3,553690,3981050
+2105,Point,Natural vegetation,3,597718,3890530
+2106,Point,Other large-scale farming,0,605817,3984990
+2107,Point,Other large-scale farming,0,596521,3928570
+2108,Point,Natural vegetation,3,546967,3973800
+2109,Point,Natural vegetation,3,600062,3936900
+2110,Point,Other large-scale farming,0,591195,3955240
+2111,Point,Other large-scale farming,0,597853,3953530
+2112,Point,Other large-scale farming,0,597720,3993620
+2113,Point,Other large-scale farming,0,600544,3945270
+2114,Point,Other large-scale farming,0,579849,3962450
+2115,Point,Other large-scale farming,0,604750,3951620
+2116,Point,Other large-scale farming,0,603998,3936510
+2117,Point,Other large-scale farming,0,590081,3924450
+2118,Point,Other large-scale farming,0,589368,3932060
+2119,Point,Other large-scale farming,0,604042,3981380
+2120,Point,Other large-scale farming,0,544564,3911490
+2121,Point,Natural vegetation,3,551035,3976010
+2122,Point,Natural vegetation,3,608847,3976780
+2123,Point,Natural vegetation,3,585639,3910370
+2124,Point,Natural vegetation,3,592523,3980990
+2125,Point,Natural vegetation,3,572105,3908830
+2126,Point,Natural vegetation,3,562969,3912650
+2127,Point,Natural vegetation,3,549849,3928330
+2128,Point,Natural vegetation,3,594599,3889490
+2129,Point,Natural vegetation,3,604777,3986410
+2130,Point,Natural vegetation,3,563347,3964370
+2131,Point,Natural vegetation,3,548950,3972950
+2132,Point,Natural vegetation,3,598045,3990840
+2133,Point,Natural vegetation,3,558017,3962180
+2134,Point,Natural vegetation,3,554080,3936200
+2135,Point,Natural vegetation,3,526581,3951090
+2136,Point,Natural vegetation,3,603335,3953320
+2137,Point,Natural vegetation,3,537313,3945480
+2138,Point,Natural vegetation,3,536117,3943240
+2139,Point,Natural vegetation,3,545175,3927270
+2140,Point,Natural vegetation,3,548257,3918020
+2141,Point,Natural vegetation,3,545087,3973190
+2142,Point,Natural vegetation,3,565873,3972020
+2143,Point,Natural vegetation,3,547059,3974140
+2144,Point,Natural vegetation,3,545187,3912620
+2145,Point,Natural vegetation,3,549133,3976890
+2146,Point,Natural vegetation,3,577091,3896180
+2147,Point,Natural vegetation,3,546176,3976190
+2148,Point,Natural vegetation,3,576594,3920410
+2149,Point,Natural vegetation,3,571075,3958330
+2150,Point,Natural vegetation,3,604733,3987040
+2151,Point,Natural vegetation,3,560148,3970440
+2152,Point,Natural vegetation,3,564842,3964620
+2153,Point,Natural vegetation,3,592502,3883590
+2154,Point,Natural vegetation,3,573986,3914540
+2155,Point,Natural vegetation,3,548479,3953620
+2156,Point,Other large-scale farming,0,585339,3929640
+2157,Point,Other large-scale farming,0,600888,3983600
+2158,Point,Other large-scale farming,0,591950,3955910
+2159,Point,Other large-scale farming,0,586030,3927220
+2160,Point,Natural vegetation,3,550364,3944650
+2161,Point,Other large-scale farming,0,583060,3950740
+2162,Point,Natural vegetation,3,542973,3947760
+2163,Point,Natural vegetation,3,550625,3979620
+2164,Point,Other large-scale farming,0,598009,3943990
+2165,Point,Other large-scale farming,0,573419,3933900
+2166,Point,Other large-scale farming,0,557243,3923860
+2167,Point,Other large-scale farming,0,607820,3925800
+2168,Point,Other large-scale farming,0,585213,3911880
+2169,Point,Other large-scale farming,0,595544,3976560
+2170,Point,Other large-scale farming,0,583852,3939040
+2171,Point,Other large-scale farming,0,608901,3986110
+2172,Point,Other large-scale farming,0,591227,3944870
+2173,Point,Natural vegetation,3,558802,3965700
+2174,Point,Other large-scale farming,0,591249,3956430
+2175,Point,Natural vegetation,3,550827,3974640
+2176,Point,Natural vegetation,3,548536,3977900
+2177,Point,Other large-scale farming,0,602803,3934710
+2178,Point,Other large-scale farming,0,545417,3911810
+2179,Point,Other large-scale farming,0,607650,3928850
+2180,Point,Natural vegetation,3,605807,3929240
+2181,Point,Natural vegetation,3,558721,3952240
+2182,Point,Natural vegetation,3,554874,3981660
+2183,Point,Other large-scale farming,0,582120,3951210
+2184,Point,Other large-scale farming,0,582923,3933430
+2185,Point,Other large-scale farming,0,589493,3944650
+2186,Point,Other large-scale farming,0,561313,3942320
+2187,Point,Other large-scale farming,0,581109,3936480
+2188,Point,Other large-scale farming,0,581353,3956000
+2189,Point,Other large-scale farming,0,590755,3957710
+2190,Point,Natural vegetation,3,542314,3938020
+2191,Point,Other large-scale farming,0,593374,3939210
+2192,Point,Natural vegetation,3,608024,3980910
+2193,Point,Natural vegetation,3,564266,3923090
+2194,Point,Natural vegetation,3,543185,3928360
+2195,Point,Natural vegetation,3,566261,3966390
+2196,Point,Natural vegetation,3,565701,3992890
+2197,Point,Other large-scale farming,0,586516,3927120
+2198,Point,Natural vegetation,3,564658,3953040
+2199,Point,Natural vegetation,3,577589,3991400
+2200,Point,Natural vegetation,3,548646,3942080
+2201,Point,Natural vegetation,3,571827,3976170
+2202,Point,Natural vegetation,3,549377,3961420
+2203,Point,Natural vegetation,3,570282,3901570
+2204,Point,Natural vegetation,3,599205,3964800
+2205,Point,Other large-scale farming,0,558672,3946660
+2206,Point,Natural vegetation,3,606950,3944890
+2207,Point,Other large-scale farming,0,594432,3928220
+2208,Point,Other large-scale farming,0,585581,3916350
+2209,Point,Other large-scale farming,0,585220,3925820
+2210,Point,Natural vegetation,3,587222,3911340
+2211,Point,Natural vegetation,3,569045,3949130
+2212,Point,Other large-scale farming,0,588932,3926170
+2213,Point,Natural vegetation,3,545393,3927410
+2214,Point,Perennial crops,2,602617,3968610
+2215,Point,Perennial crops,2,604295,3944860
+2216,Point,Perennial crops,2,588524,3962070
+2217,Point,Perennial crops,2,580918,3950230
+2218,Point,Perennial crops,2,550367,3949540
+2219,Point,Perennial crops,2,574052,3931260
+2220,Point,Perennial crops,2,595504,3903390
+2221,Point,Perennial crops,2,600234,3921280
+2222,Point,Perennial crops,2,563496,3974380
+2223,Point,Perennial crops,2,584249,3914040
+2224,Point,Perennial crops,2,590571,3954940
+2225,Point,Perennial crops,2,602277,3914680
+2226,Point,Perennial crops,2,539639,3949990
+2227,Point,Perennial crops,2,573869,3908750
+2228,Point,Perennial crops,2,603015,3919200
+2229,Point,Perennial crops,2,571416,3953100
+2230,Point,Perennial crops,2,606222,3920240
+2231,Point,Perennial crops,2,544885,3950190
+2232,Point,Perennial crops,2,578078,3974460
+2233,Point,Perennial crops,2,570504,3926890
+2234,Point,Perennial crops,2,560492,3978760
+2235,Point,Perennial crops,2,581893,3906000
+2236,Point,Perennial crops,2,584389,3903410
+2237,Point,Perennial crops,2,566510,3916860
+2238,Point,Perennial crops,2,582415,3890220
+2239,Point,Perennial crops,2,532222,3951730
+2240,Point,Perennial crops,2,604028,3899480
+2241,Point,Perennial crops,2,574063,3902040
+2242,Point,Perennial crops,2,604976,3902950
+2243,Point,Perennial crops,2,593785,3890260
+2244,Point,Perennial crops,2,553095,3930610
+2245,Point,Perennial crops,2,592448,3892760
+2246,Point,Perennial crops,2,560180,3957790
+2247,Point,Perennial crops,2,532747,3946950
+2248,Point,Perennial crops,2,562419,3902010
+2249,Point,Perennial crops,2,586907,3950650
+2250,Point,Perennial crops,2,579352,3980600
+2251,Point,Perennial crops,2,561224,3930720
+2252,Point,Perennial crops,2,555010,3956440
+2253,Point,Perennial crops,2,602199,3974620
+2254,Point,Perennial crops,2,548201,3941450
+2255,Point,Perennial crops,2,534558,3942620
+2256,Point,Perennial crops,2,562152,3945400
+2257,Point,Perennial crops,2,575237,3990510
+2258,Point,Perennial crops,2,572012,3960180
+2259,Point,Perennial crops,2,555407,3923840
+2260,Point,Perennial crops,2,573253,3947430
+2261,Point,Perennial crops,2,588278,3947230
+2262,Point,Perennial crops,2,608444,3932810
+2263,Point,Perennial crops,2,579163,3963120
+2264,Point,Perennial crops,2,602737,3986390
+2265,Point,Perennial crops,2,592814,3920660
+2266,Point,Perennial crops,2,552289,3927670
+2267,Point,Perennial crops,2,590158,3970090
+2268,Point,Perennial crops,2,546222,3960970
+2269,Point,Perennial crops,2,576631,3934010
+2270,Point,Perennial crops,2,576579,3955150
+2271,Point,Perennial crops,2,607929,3936400
+2272,Point,Perennial crops,2,607797,3983710
+2273,Point,Perennial crops,2,549619,3931550
+2274,Point,Perennial crops,2,541942,3941050
+2275,Point,Perennial crops,2,599024,3925430
+2276,Point,Perennial crops,2,597297,3934550
+2277,Point,Perennial crops,2,526672,3954130
+2278,Point,Perennial crops,2,539779,3941790
+2279,Point,Perennial crops,2,559511,3923720
+2280,Point,Perennial crops,2,580259,3941040
+2281,Point,Perennial crops,2,547058,3919690
+2282,Point,Perennial crops,2,562846,3931290
+2283,Point,Perennial crops,2,570850,3950680
+2284,Point,Perennial crops,2,567948,3923770
+2285,Point,Perennial crops,2,560559,3961850
+2286,Point,Perennial crops,2,526391,3953600
+2287,Point,Perennial crops,2,595426,3918360
+2288,Point,Perennial crops,2,593117,3886380
+2289,Point,Perennial crops,2,561851,3948330
+2290,Point,Perennial crops,2,609671,3895600
+2291,Point,Perennial crops,2,593932,3924340
+2292,Point,Perennial crops,2,593856,3948480
+2293,Point,Perennial crops,2,559579,3982140
+2294,Point,Perennial crops,2,554013,3937040
+2295,Point,Perennial crops,2,556417,3932160
+2296,Point,Perennial crops,2,594754,3890620
+2297,Point,Perennial crops,2,564777,3935360
+2298,Point,Perennial crops,2,598203,3955010
+2299,Point,Perennial crops,2,599105,3955160
+2300,Point,Perennial crops,2,570491,3980760
+2301,Point,Perennial crops,2,592275,3896370
+2302,Point,Perennial crops,2,579612,3939680
+2303,Point,Perennial crops,2,557933,3925490
+2304,Point,Perennial crops,2,541629,3941670
+2305,Point,Perennial crops,2,564980,3957750
+2306,Point,Perennial crops,2,548182,3933300
+2307,Point,Perennial crops,2,553696,3955500
+2308,Point,Perennial crops,2,546332,3938290
+2309,Point,Perennial crops,2,596804,3933310
+2310,Point,Perennial crops,2,595929,3904040
+2311,Point,Perennial crops,2,596624,3921660
+2312,Point,Perennial crops,2,610241,3945590
+2313,Point,Perennial crops,2,549642,3940620
+2314,Point,Perennial crops,2,610507,3991800
+2315,Point,Perennial crops,2,592050,3938540
+2316,Point,Perennial crops,2,566742,3953260
+2317,Point,Perennial crops,2,565723,3954510
+2318,Point,Perennial crops,2,577020,3994000
+2319,Point,Perennial crops,2,545567,3950750
+2320,Point,Perennial crops,2,595288,3992010
+2321,Point,Perennial crops,2,614892,3940720
+2322,Point,Perennial crops,2,560706,3931620
+2323,Point,Perennial crops,2,582841,3908200
+2324,Point,Perennial crops,2,590639,3913200
+2325,Point,Perennial crops,2,602828,3920220
+2326,Point,Perennial crops,2,600014,3959640
+2327,Point,Perennial crops,2,583423,3915070
+2328,Point,Perennial crops,2,540826,3945760
+2329,Point,Perennial crops,2,566749,3948160
+2330,Point,Perennial crops,2,554495,3974400
+2331,Point,Perennial crops,2,612336,3939140
+2332,Point,Perennial crops,2,598914,3894110
+2333,Point,Perennial crops,2,562893,3942040
+2334,Point,Perennial crops,2,552476,3959450
+2335,Point,Perennial crops,2,607320,3895270
+2336,Point,Perennial crops,2,555155,3922330
+2337,Point,Perennial crops,2,546343,3934930
+2338,Point,Perennial crops,2,582095,3950590
+2339,Point,Perennial crops,2,579915,3953950
+2340,Point,Perennial crops,2,604619,3935510
+2341,Point,Perennial crops,2,578896,3967800
+2342,Point,Perennial crops,2,550986,3976000
+2343,Point,Perennial crops,2,595216,3885010
+2344,Point,Perennial crops,2,582646,3980800
+2345,Point,Perennial crops,2,606348,3900370
+2346,Point,Perennial crops,2,606701,3944340
+2347,Point,Perennial crops,2,589513,3916110
+2348,Point,Perennial crops,2,565771,3973810
+2349,Point,Perennial crops,2,538901,3940410
+2350,Point,Perennial crops,2,543362,3945670
+2351,Point,Perennial crops,2,548878,3931010
+2352,Point,Perennial crops,2,565495,3964720
+2353,Point,Perennial crops,2,560433,3933810
+2354,Point,Perennial crops,2,600189,3908420
+2355,Point,Perennial crops,2,559207,3958360
+2356,Point,Perennial crops,2,556008,3934480
+2357,Point,Perennial crops,2,601951,3928430
+2358,Point,Perennial crops,2,575688,3990310
+2359,Point,Perennial crops,2,603444,3908370
+2360,Point,Perennial crops,2,606044,3921820
+2361,Point,Perennial crops,2,565317,3917630
+2362,Point,Perennial crops,2,567709,3977440
+2363,Point,Perennial crops,2,590740,3919180
+2364,Point,Perennial crops,2,561823,3965710
+2365,Point,Perennial crops,2,591094,3884370
+2366,Point,Perennial crops,2,594513,3993220
+2367,Point,Perennial crops,2,601907,3995220
+2368,Point,Perennial crops,2,595118,3959220
+2369,Point,Perennial crops,2,588092,3935420
+2370,Point,Perennial crops,2,573697,3979780
+2371,Point,Perennial crops,2,575490,3925960
+2372,Point,Perennial crops,2,574336,3913900
+2373,Point,Perennial crops,2,571499,3986320
+2374,Point,Perennial crops,2,561470,3926480
+2375,Point,Perennial crops,2,573359,3939460
+2376,Point,Perennial crops,2,562214,3935150
+2377,Point,Perennial crops,2,580301,3971710
+2378,Point,Perennial crops,2,560736,3950190
+2379,Point,Perennial crops,2,574101,3940240
+2380,Point,Perennial crops,2,570541,3898280
+2381,Point,Perennial crops,2,575064,3991680
+2382,Point,Perennial crops,2,585896,3975450
+2383,Point,Perennial crops,2,554830,3951100
+2384,Point,Perennial crops,2,580200,3918980
+2385,Point,Perennial crops,2,571683,3939780
+2386,Point,Perennial crops,2,546325,3920130
+2387,Point,Perennial crops,2,593733,3976070
+2388,Point,Perennial crops,2,546081,3942340
+2389,Point,Perennial crops,2,581283,3972930
+2390,Point,Perennial crops,2,583373,3977070
+2391,Point,Perennial crops,2,603859,3982310
+2392,Point,Perennial crops,2,582077,3947410
+2393,Point,Perennial crops,2,602999,3906800
+2394,Point,Perennial crops,2,568945,3910740
+2395,Point,Perennial crops,2,593305,3914010
+2396,Point,Perennial crops,2,564214,3957810
+2397,Point,Perennial crops,2,569898,3969150
+2398,Point,Perennial crops,2,584169,3979210
+2399,Point,Perennial crops,2,569046,3947940
+2400,Point,Perennial crops,2,598917,3895300
+2401,Point,Perennial crops,2,598007,3890310
+2402,Point,Perennial crops,2,585845,3941290
+2403,Point,Perennial crops,2,609679,3928960
+2404,Point,Perennial crops,2,566029,3904080
+2405,Point,Perennial crops,2,550383,3938670
+2406,Point,Perennial crops,2,569483,3953400
+2407,Point,Perennial crops,2,543964,3914770
+2408,Point,Perennial crops,2,574664,3936710
+2409,Point,Perennial crops,2,601191,3989390
+2410,Point,Perennial crops,2,567461,3929750
+2411,Point,Perennial crops,2,551410,3939390
+2412,Point,Perennial crops,2,588194,3972910
+2413,Point,Perennial crops,2,594243,3934650
+2414,Point,Perennial crops,2,579008,3916820
+2415,Point,Perennial crops,2,607069,3992490
+2416,Point,Perennial crops,2,583991,3950040
+2417,Point,Perennial crops,2,574691,3980420
+2418,Point,Perennial crops,2,578900,3964130
+2419,Point,Perennial crops,2,584594,3974240
+2420,Point,Perennial crops,2,580254,3980850
+2421,Point,Perennial crops,2,594715,3984130
+2422,Point,Perennial crops,2,600750,3952740
+2423,Point,Perennial crops,2,583041,3978120
+2424,Point,Perennial crops,2,578912,3969220
+2425,Point,Perennial crops,2,595910,3973760
+2426,Point,Perennial crops,2,586591,3969010
+2427,Point,Perennial crops,2,587750,3952330
+2428,Point,Perennial crops,2,610269,3990160
+2429,Point,Perennial crops,2,604477,3980430
+2430,Point,Perennial crops,2,601091,3905130
+2431,Point,Perennial crops,2,580593,3952730
+2432,Point,Perennial crops,2,587845,3948350
+2433,Point,Perennial crops,2,588382,3970240
+2434,Point,Perennial crops,2,577168,3974020
+2435,Point,Perennial crops,2,582020,3964160
+2436,Point,Perennial crops,2,575655,3950520
+2437,Point,Perennial crops,2,584424,3949560
+2438,Point,Perennial crops,2,598651,3988090
+2439,Point,Perennial crops,2,586364,3983640
+2440,Point,Perennial crops,2,609734,3988660
+2441,Point,Perennial crops,2,590784,3986400
+2442,Point,Perennial crops,2,576207,3978620
+2443,Point,Perennial crops,2,580245,3973760
+2444,Point,Perennial crops,2,588433,3957090
+2445,Point,Perennial crops,2,599776,3977990
+2446,Point,Perennial crops,2,602415,3994470
+2447,Point,Perennial crops,2,567842,3958970
+2448,Point,Perennial crops,2,585746,3948440
+2449,Point,Natural vegetation,3,566098,3975480
+2450,Point,Natural vegetation,3,562329,3971970
+2451,Point,Natural vegetation,3,575857,3981950
+2452,Point,Natural vegetation,3,560331,3980670
+2453,Point,Natural vegetation,3,549326,3970880
+2454,Point,Natural vegetation,3,578537,3988890
+2455,Point,Natural vegetation,3,568473,3988890
+2456,Point,Natural vegetation,3,566091,3961320
+2457,Point,Natural vegetation,3,561696,3959170
+2458,Point,Natural vegetation,3,589602,3983110
+2459,Point,Natural vegetation,3,584952,3986270
+2460,Point,Natural vegetation,3,557595,3960180
+2461,Point,Other large-scale farming,0,590816,3914610
+2462,Point,Other large-scale farming,0,590640,3914670
+2463,Point,Other large-scale farming,0,590516,3914510
+2464,Point,Other large-scale farming,0,587940,3916200
+2465,Point,Other large-scale farming,0,587508,3916560
+2466,Point,Other large-scale farming,0,587529,3916250
+2467,Point,Other large-scale farming,0,587582,3916470
+2468,Point,Other large-scale farming,0,587971,3916430
+2469,Point,Other large-scale farming,0,587924,3916570
+2470,Point,Other large-scale farming,0,582790,3915240
+2471,Point,Other large-scale farming,0,583128,3915300
+2472,Point,Other large-scale farming,0,583465,3915440
+2473,Point,Other large-scale farming,0,584176,3915690
+2474,Point,Other large-scale farming,0,583267,3915960
+2475,Point,Other large-scale farming,0,583071,3916120
+2476,Point,Other large-scale farming,0,582969,3916240
+2477,Point,Other large-scale farming,0,582780,3916330
+2478,Point,Other large-scale farming,0,582655,3916210
+2479,Point,Other large-scale farming,0,582301,3916430
+2480,Point,Other large-scale farming,0,582536,3916600
+2481,Point,Other large-scale farming,0,582489,3916050
+2482,Point,Other large-scale farming,0,582546,3916260
+2483,Point,Other large-scale farming,0,571140,3905970
+2484,Point,Other large-scale farming,0,571278,3905830
+2485,Point,Other large-scale farming,0,571149,3905690
+2486,Point,Other large-scale farming,0,571358,3905510
+2487,Point,Other large-scale farming,0,571613,3905670
+2488,Point,Other large-scale farming,0,572016,3905490
+2489,Point,Other large-scale farming,0,572426,3905710
+2490,Point,Other large-scale farming,0,572463,3906050
+2491,Point,Other large-scale farming,0,572359,3905980
+2492,Point,Other large-scale farming,0,572474,3905970
+2493,Point,Other large-scale farming,0,566759,3906750
+2494,Point,Other large-scale farming,0,566930,3906700
+2495,Point,Other large-scale farming,0,567372,3906650
+2496,Point,Other large-scale farming,0,567730,3906530
+2497,Point,Other large-scale farming,0,567425,3906530
+2498,Point,Other large-scale farming,0,567489,3906180
+2499,Point,Other large-scale farming,0,568466,3908940
+2500,Point,Other large-scale farming,0,568324,3908960
+2501,Point,Other large-scale farming,0,568315,3908800
+2502,Point,Other large-scale farming,0,569069,3908840
+2503,Point,Other large-scale farming,0,568864,3908630
+2504,Point,Other large-scale farming,0,569026,3909250
+2505,Point,Other large-scale farming,0,576881,3918140
+2506,Point,Other large-scale farming,0,577840,3920760
+2507,Point,Other large-scale farming,0,578243,3920630
+2508,Point,Other large-scale farming,0,591169,3902670
+2509,Point,Other large-scale farming,0,591063,3902790
+2510,Point,Other large-scale farming,0,591222,3903040
+2511,Point,Other large-scale farming,0,591540,3902990
+2512,Point,Other large-scale farming,0,591566,3902860
+2513,Point,Other large-scale farming,0,591725,3903040
+2514,Point,Other large-scale farming,0,591820,3903270
+2515,Point,Other large-scale farming,0,591868,3903920
+2516,Point,Other large-scale farming,0,591915,3904210
+2517,Point,Other large-scale farming,0,592037,3904340
+2518,Point,Other large-scale farming,0,592296,3904310
+2519,Point,Other large-scale farming,0,592483,3904720
+2520,Point,Other large-scale farming,0,592288,3904800
+2521,Point,Other large-scale farming,0,592028,3904750
+2522,Point,Other large-scale farming,0,592589,3905000
+2523,Point,Other large-scale farming,0,593437,3904380
+2524,Point,Other large-scale farming,0,593421,3904630
+2525,Point,Other large-scale farming,0,591059,3905580
+2526,Point,Other large-scale farming,0,591554,3905310
+2527,Point,Other large-scale farming,0,591205,3905760
+2528,Point,Other large-scale farming,0,590076,3905180
+2529,Point,Other large-scale farming,0,590192,3905510
+2530,Point,Other large-scale farming,0,590929,3905750
+2531,Point,Other large-scale farming,0,606796,3909900
+2532,Point,Other large-scale farming,0,606181,3909760
+2533,Point,Other large-scale farming,0,606411,3909620
+2534,Point,Other large-scale farming,0,607082,3909310
+2535,Point,Other large-scale farming,0,606911,3908980
+2536,Point,Other large-scale farming,0,606766,3908830
+2537,Point,Other large-scale farming,0,597041,3907240
+2538,Point,Other large-scale farming,0,596313,3906780
+2539,Point,Other large-scale farming,0,596318,3906240
+2540,Point,Other large-scale farming,0,596457,3906310
+2541,Point,Other large-scale farming,0,596481,3906430
+2542,Point,Other large-scale farming,0,596541,3906350
+2543,Point,Other large-scale farming,0,595821,3905760
+2544,Point,Other large-scale farming,0,597424,3903750
+2545,Point,Other large-scale farming,0,597749,3903900
+2546,Point,Other large-scale farming,0,598350,3904190
+2547,Point,Other large-scale farming,0,598445,3903440
+2548,Point,Other large-scale farming,0,598355,3903410
+2549,Point,Other large-scale farming,0,598069,3903320
+2550,Point,Other large-scale farming,0,598839,3904360
+2551,Point,Other large-scale farming,0,598120,3903840
+2552,Point,Other large-scale farming,0,597593,3904560
+2553,Point,Other large-scale farming,0,565757,3928820
+2554,Point,Other large-scale farming,0,565535,3928960
+2555,Point,Other large-scale farming,0,565558,3929030
+2556,Point,Other large-scale farming,0,564672,3928890
+2557,Point,Other large-scale farming,0,563906,3928900
+2558,Point,Other large-scale farming,0,564001,3928460
+2559,Point,Other large-scale farming,0,563881,3928080
+2560,Point,Other large-scale farming,0,563570,3928080
+2561,Point,Other large-scale farming,0,563611,3928040
+2562,Point,Other large-scale farming,0,562653,3928170
+2563,Point,Other large-scale farming,0,562702,3928210
+2564,Point,Other large-scale farming,0,563210,3928170
+2565,Point,Other large-scale farming,0,563212,3928130
+2566,Point,Other large-scale farming,0,562875,3929570
+2567,Point,Other large-scale farming,0,562136,3929480
+2568,Point,Other large-scale farming,0,562029,3929950
+2569,Point,Other large-scale farming,0,561573,3935180
+2570,Point,Other large-scale farming,0,561366,3935150
+2571,Point,Other large-scale farming,0,560779,3935460
+2572,Point,Other large-scale farming,0,560782,3935600
+2573,Point,Other large-scale farming,0,560972,3935030
+2574,Point,Other large-scale farming,0,561983,3935230
+2575,Point,Other large-scale farming,0,562163,3935390
+2576,Point,Other large-scale farming,0,561975,3934910
+2577,Point,Other large-scale farming,0,562210,3935070
+2578,Point,Other large-scale farming,0,562722,3935350
+2579,Point,Other large-scale farming,0,562444,3935920
+2580,Point,Other large-scale farming,0,562329,3935970
+2581,Point,Other large-scale farming,0,562456,3936120
+2582,Point,Other large-scale farming,0,562505,3936050
+2583,Point,Other large-scale farming,0,562863,3935900
+2584,Point,Other large-scale farming,0,562899,3935960
+2585,Point,Other large-scale farming,0,563595,3935560
+2586,Point,Other large-scale farming,0,563722,3935610
+2587,Point,Other large-scale farming,0,590760,3895270
+2588,Point,Other large-scale farming,0,590439,3894530
+2589,Point,Other large-scale farming,0,591018,3894270
+2590,Point,Other large-scale farming,0,591066,3894200
+2591,Point,Other large-scale farming,0,592044,3894910
+2592,Point,Other large-scale farming,0,591424,3894310
+2593,Point,Other large-scale farming,0,591384,3894360
+2594,Point,Other large-scale farming,0,591938,3896100
+2595,Point,Other large-scale farming,0,592054,3896010
+2596,Point,Other large-scale farming,0,592744,3896110
+2597,Point,Other large-scale farming,0,592486,3883980
+2598,Point,Other large-scale farming,0,591024,3883880
+2599,Point,Natural vegetation,3,609077,3940510
+2600,Point,Other large-scale farming,0,597911,3940170
